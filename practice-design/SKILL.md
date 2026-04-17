@@ -1,192 +1,192 @@
 ---
 name: practice-design
 version: "0.1.0"
-description: "골프 연습 설계 — Deliberate Practice 적용. 블록/랜덤/인터리빙 연습, 시간대별 플랜, 연습-플레이 전이, 연습 저널."
+description: "Golf Practice Design — Deliberate Practice applied. Block/random/interleaved practice, time-based plans, practice-to-play transfer, practice journal."
 ---
 
-# 골프 연습 설계 (Practice Design)
+# Golf Practice Design (Practice Design)
 
-## 한줄 요약
+## One-Line Summary
 
-**같은 시간을 연습해도 '어떻게' 연습하느냐에 따라 효과가 5배 차이 난다.** 블록 연습(같은 샷 반복)보다 랜덤/인터리빙 연습(매번 다른 샷)이 필드 전이율이 높다.
+**Same practice time, but *how* you practice creates up to a 5x difference in effectiveness.** Random/interleaved practice (different shot each time) produces higher field transfer rates than block practice (repeating the same shot).
 
-## 근거 강도
+## Strength of Evidence
 
-- 인터리빙 > 블록 연습 (전이 효과): **강함** (운동학습 다수 연구 — Shea & Morgan 1979, Guadagnoli & Lee 2004)
-- Deliberate Practice 프레임: **강함** (Ericsson 1993, 스포츠 전반)
-- 시각화/멘탈 리허설: **중간** (보조적 효과, 단독으로는 제한적)
-- 연습 저널의 효과: **중간** (자기 인식 향상, 직접 실험 데이터 제한적)
+- Interleaving > Block practice (transfer effect): **Strong** (multiple motor learning studies — Shea & Morgan 1979, Guadagnoli & Lee 2004)
+- Deliberate Practice framework: **Strong** (Ericsson 1993, across sports)
+- Visualization/mental rehearsal: **Moderate** (supplementary effect; limited when used alone)
+- Practice journaling: **Moderate** (improves self-awareness; limited direct experimental data)
 
-## 이론·근거 출처
+## Theoretical Foundations & Sources
 
 - **Anders Ericsson** — Deliberate Practice
 - **Richard Schmidt** — Motor Learning and Performance
-- **Christine Carter** — "The Bulletproof Musician" (연습 과학 적용)
+- **Christine Carter** — "The Bulletproof Musician" (practice science applied)
 - **Mark Guadagnoli & Timothy Lee** — Challenge Point Framework
 
-## 연습 유형 3가지
+## Three Types of Practice
 
-### 1. 블록 연습 (Block Practice)
-- 같은 클럽, 같은 타겟, 같은 샷을 반복
-- 예: 7번 아이언으로 150야드 타겟에 30발
-- **장점**: 기술 습득 초기에 유용. 자신감 형성
-- **단점**: 필드 전이율 낮음. "레인지에서는 잘 치는데..."
-- **사용 시기**: 새로운 기술 배울 때, 레슨 후 반복 정착
+### 1. Block Practice
+- Same club, same target, same shot repeated
+- Example: 30 balls to a 150-yard target with a 7-iron
+- **Strengths**: Useful in early skill acquisition. Builds confidence
+- **Weaknesses**: Low field transfer rate. "I hit great at the range, but..."
+- **When to use**: Learning a new technique; post-lesson repetition for consolidation
 
-### 2. 랜덤 연습 (Random Practice)
-- 매 샷 다른 클럽, 다른 타겟, 다른 상황
-- 예: 드라이버 → 7번 → 웨지 → 3번 우드, 매번 다른 타겟
-- **장점**: 필드와 같은 의사결정 연습. 전이율 높음
-- **단점**: 즉각적인 만족감 낮음 (잘 안 맞는 느낌)
-- **사용 시기**: 기본기가 잡힌 후. 라운드 전 워밍업
+### 2. Random Practice
+- Different club, different target, different situation every shot
+- Example: Driver → 7-iron → wedge → 3-wood, each to a different target
+- **Strengths**: Replicates on-course decision-making. High transfer rate
+- **Weaknesses**: Low immediate satisfaction (feels like you're hitting poorly)
+- **When to use**: After fundamentals are established. Pre-round warm-up
 
-### 3. 인터리빙 연습 (Interleaved Practice)
-- 3~5발씩 클럽/타겟을 교대
-- 예: PW 3발 → 7번 3발 → 드라이버 3발 → 반복
-- **장점**: 블록과 랜덤의 중간. 초보~중급에게 가장 효과적
-- **단점**: 랜덤보다 덜 현실적
+### 3. Interleaved Practice
+- Rotate clubs/targets every 3–5 shots
+- Example: PW × 3 → 7-iron × 3 → driver × 3 → repeat
+- **Strengths**: Midpoint between block and random. Most effective for beginners to intermediate players
+- **Weaknesses**: Less realistic than random practice
 
-### 연습 유형 배분 (핸디캡별)
-| 핸디캡 | 블록 | 인터리빙 | 랜덤 |
+### Practice Type Distribution (by Handicap)
+| Handicap | Block | Interleaved | Random |
 |---|---|---|---|
 | 30+ | 60% | 30% | 10% |
-| 20~30 | 40% | 40% | 20% |
-| 10~20 | 20% | 40% | 40% |
-| 0~10 | 10% | 30% | 60% |
+| 20–30 | 40% | 40% | 20% |
+| 10–20 | 20% | 40% | 40% |
+| 0–10 | 10% | 30% | 60% |
 
-## 시간별 연습 플랜
+## Time-Based Practice Plans
 
-### 30분 플랜 (퇴근 후 / 점심 시간)
+### 30-Minute Plan (After Work / Lunch Break)
 ```
-워밍업 (5min): PW 하프스윙 5발
-기술 연습 블록 (10min): 주간 과제 집중 (예: 50야드 피치)
-게임 연습 랜덤 (10min): 가상 홀 플레이 (매 샷 다른 클럽)
-퍼팅 (5min): 3피트 원 드릴 10발
-```
-
-### 1시간 플랜
-```
-워밍업 (10min): 웨지 → 미들 → 드라이버 순으로 3발씩
-기술 블록 (15min): 주간 과제 (예: 클럭 9:00 GW)
-인터리빙 (15min): 3개 클럽 × 5발 교대
-게임 시뮬레이션 (10min): 가상 라운드 (코스 1~3번 홀 상상)
-숏게임 (10min): 칩/피치 랜덤 (매번 다른 타겟)
+Warm-up (5 min): PW half-swing × 5
+Technical block (10 min): Weekly focus drill (e.g., 50-yard pitch)
+Game practice — random (10 min): Virtual hole play (different club each shot)
+Putting (5 min): 3-foot circle drill × 10
 ```
 
-### 2시간 플랜 (주말 집중)
+### 1-Hour Plan
 ```
-워밍업 (10min): 부드러운 스윙, 스트레칭
-풀스윙 블록 (20min): 레슨 과제 / 약점 클럽 집중
-풀스윙 랜덤 (15min): 가상 홀 플레이
-웨지 거리 제어 (20min): 클럭 시스템 매트릭스 채우기
-칩/피치 (15min): 다양한 라이에서 칩 → 피치 → 로브
-벙커 (10min): 탈출 + 거리 제어
-퍼팅 (20min): 3피트 드릴 + 래그 퍼팅 + 가상 홀
-쿨다운/복습 (10min): 오늘 연습 기록, 다음 과제 설정
+Warm-up (10 min): Wedge → mid-iron → driver, 3 shots each
+Technical block (15 min): Weekly focus drill (e.g., clock 9:00 GW)
+Interleaving (15 min): 3 clubs × 5 shots alternating
+Game simulation (10 min): Virtual round (imagine holes 1–3 of a course)
+Short game (10 min): Random chip/pitch (different target each time)
 ```
 
-## 가상 홀 플레이 (핵심 연습법)
+### 2-Hour Plan (Weekend Intensive)
+```
+Warm-up (10 min): Easy swings, stretching
+Full swing block (20 min): Lesson drill / weak club focus
+Full swing random (15 min): Virtual hole play
+Wedge distance control (20 min): Fill out clock system distance matrix
+Chip/pitch (15 min): Chip → pitch → lob from varied lies
+Bunker (10 min): Escape + distance control
+Putting (20 min): 3-foot drill + lag putting + virtual holes
+Cool-down/review (10 min): Log today's practice, set next session goals
+```
 
-레인지에서 **실제 코스를 상상하며** 플레이:
+## Virtual Hole Play (Core Practice Method)
 
-1. 자주 가는 코스의 1번 홀 상상
-2. 드라이버 → 타겟 선정 → 1발
-3. 결과 상상 (페어웨이? 러프?)
-4. 다음 샷 클럽 선택 → 1발
-5. 어프로치 → 1발
-6. 다음 홀로...
+**Imagine playing an actual course** while at the range:
 
-**효과**: 매 샷 의사결정 + 클럽 교체 + 프리샷 루틴 = 필드와 동일한 인지 부하
+1. Visualize hole 1 of a course you frequently play
+2. Driver → pick a target → 1 shot
+3. Imagine the result (fairway? rough?)
+4. Select club for the next shot → 1 shot
+5. Approach → 1 shot
+6. Move to the next hole...
 
-## 연습 저널 템플릿
+**Effect**: Decision-making each shot + club changes + pre-shot routine = same cognitive load as on-course play
+
+## Practice Journal Template
 
 ```
-날짜: ___
-시간: ___ (___분)
-목표: ___
+Date: ___
+Time: ___ (___min)
+Goal: ___
 
-기술 연습:
-- 클럽/샷: ___
-- 성공률: ___/___
-- 느낀 점: ___
+Technical Practice:
+- Club/Shot: ___
+- Success rate: ___/___
+- Observations: ___
 
-게임 연습:
-- 가상 홀 수: ___
-- 결과: ___
+Game Practice:
+- Virtual holes played: ___
+- Results: ___
 
-숏게임:
-- 업앤다운 성공: ___/___
-- 퍼팅 3피트: ___/___
+Short Game:
+- Up-and-down success: ___/___
+- 3-foot putts: ___/___
 
-다음 세션 과제:
+Next Session Focus:
 1. ___
 2. ___
 ```
 
-## 연습-플레이 전이 (Transfer)
+## Practice-to-Play Transfer
 
-### 전이율 높이는 방법
-1. **프리샷 루틴을 연습에서도 매 샷 실행** — 연습장에서 루틴 없이 → 필드에서 루틴이 어색
-2. **매 샷 사이 5~10초 쉬기** — 연속으로 빠르게 치기 = 블록 연습의 극단
-3. **타겟을 매번 바꾸기** — 같은 방향 30발 = 연습장 전용 스윙
-4. **압박 상황 만들기** — "이 5발 중 3발은 그린에 올려야 함" 같은 게임
-5. **결과를 기록** — 성공/실패를 세면 집중력 상승
+### Methods to Increase Transfer Rate
+1. **Execute your pre-shot routine on every practice shot** — No routine at the range → routine feels awkward on the course
+2. **Pause 5–10 seconds between shots** — Rapid-fire hitting = an extreme form of block practice
+3. **Change your target every shot** — 30 balls in the same direction = a range-only swing
+4. **Create pressure situations** — Games like "3 out of these 5 must hit the green"
+5. **Track your results** — Counting successes/failures increases focus
 
-### 레인지 vs 필드 차이 인식
-| 레인지 | 필드 |
+### Range vs. Course: Key Differences
+| Range | Course |
 |---|---|
-| 평평한 매트 | 다양한 라이 |
-| 같은 타겟 반복 | 매 샷 다른 타겟 |
-| 미스해도 다시 치면 됨 | 모든 샷이 1발 |
-| 시간 압박 없음 | 플레이 속도 |
-| 결과 확인 어려움 (매트) | 즉각적 피드백 |
+| Flat mat | Varied lies |
+| Same target repeated | Different target every shot |
+| Can re-hit after a miss | Every shot counts |
+| No time pressure | Pace of play |
+| Difficult to assess results (mat) | Immediate feedback |
 
-## 론치모니터 활용 (한국 시장)
+## Launch Monitor Guide (Korean Market)
 
-| 기기 | 가격 | 장점 | 단점 |
+| Device | Price (KRW) | Strengths | Weaknesses |
 |---|---|---|---|
-| Garmin Approach R10 | 50~60만원 | 가성비, 휴대성 | 실내 정확도 낮음 |
-| Rapsodo MLM2PRO | 60~70만원 | 카메라 피드백 | |
-| FlightScope Mevo+ | 80~100만원 | 실내/외 겸용, 정확 | 가격 |
-| Trackman / GCQuad | 1000만원+ | 최고 정확도 | 프로/피팅샵용 |
+| Garmin Approach R10 | 500K–600K | Best value, portable | Lower indoor accuracy |
+| Rapsodo MLM2PRO | 600K–700K | Camera feedback | |
+| FlightScope Mevo+ | 800K–1M | Indoor/outdoor, accurate | Price |
+| Trackman / GCQuad | 10M+ | Highest accuracy | For pros/fitting studios |
 
-론치모니터 있으면:
-- 클럽별 정확한 거리 측정
-- 클럭 시스템 거리 매트릭스 작성
-- 스핀, 발사 각도, 편차 분석
+With a launch monitor:
+- Measure accurate distances per club
+- Build clock system distance matrix
+- Analyze spin, launch angle, and dispersion
 
-## 한국 골프 연습 현실
+## Golf Practice Realities in Korea
 
-- **2~3층 레인지**: 실제 탄도 확인 어려움. 론치모니터 보조 권장
-- **1층 레인지**: 탄도 확인 가능하지만 접근성 낮음 (교외)
-- **스크린 골프 연습**: 가상 라운드로 게임 연습 가능. 단, 감각이 다름
-- **퍼팅 매트 (집)**: 3피트 연습만으로도 라운드당 2~3타 감소
-- **숏게임 연습장**: 서울 근교 증가 추세. 칩/벙커/퍼팅 통합 시설
-- **시간 부족**: 주 1회 30분이라도 구조화된 연습 > 주 1회 2시간 무계획 연습
+- **Multi-story driving ranges (2F–3F)**: Difficult to observe actual ball flight. Launch monitor recommended as a supplement
+- **Ground-level ranges**: Ball flight visible, but less accessible (suburban locations)
+- **Screen golf for practice**: Enables virtual round game practice. However, feel differs from real course
+- **Home putting mats**: Practicing 3-foot putts alone can save 2–3 strokes per round
+- **Short game practice facilities**: Increasingly common near Seoul metro area. Integrated chip/bunker/putting facilities
+- **Time constraints**: Structured 30 minutes once a week > unstructured 2 hours once a week
 
-## 안티패턴
+## Anti-Patterns
 
-- **드라이버만 50발** — 기분은 좋지만 타수 개선 최소
-- **무타겟 연습** — 방향 없이 치면 근육 기억에 방향 없이 저장
-- **풀스윙만 연습** — 필드 샷의 60%는 풀스윙이 아님
-- **매트에서 뒤땅 감각 무시** — 매트는 뒤땅도 미끄러져 나감 → 잔디 감각과 다름
-- **연습 없이 라운드만** — 월 2회 라운드 = 월 144발. 부족한 데이터와 반복
-- **레슨 직후 풀 라운드** — 새로운 기술은 레인지에서 정착 후 필드로
+- **50 drivers in a row** — Feels great, minimal stroke improvement
+- **Hitting without a target** — No direction in practice = no direction stored in muscle memory
+- **Full swing only** — 60% of on-course shots are not full swings
+- **Ignoring fat shots on mats** — Mats let the club slide through fat contact → different feel from turf
+- **Playing rounds without practice** — 2 rounds/month = 144 shots/month. Insufficient data and repetition
+- **Full round immediately after a lesson** — New techniques need range consolidation before on-course application
 
-## 한계
+## Limitations
 
-1. 연습 환경의 한계 — 한국 레인지는 다양한 라이 연습이 어려움
-2. 동기 부여 — 구조화된 연습은 "재미없을" 수 있음. 게임 요소 추가
-3. 피드백 품질 — 프로 코칭 없이는 잘못된 패턴을 반복할 수 있음
+1. Practice environment constraints — Korean driving ranges make it difficult to practice from varied lies
+2. Motivation — Structured practice can feel "boring." Add gamification elements
+3. Feedback quality — Without professional coaching, incorrect patterns may be reinforced through repetition
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `strokes-gained` — 데이터 기반 연습 시간 배분
-- `short-game` — 숏게임 드릴 구체화
-- `mental-game` — 연습에서 프리샷 루틴 정착
-- `deliberate-practice` (`/learn`) — 연습 과학의 일반 이론
+- `strokes-gained` — Data-driven practice time allocation
+- `short-game` — Detailed short game drill design
+- `mental-game` — Establishing pre-shot routine during practice
+- `deliberate-practice` (`/learn`) — General theory of practice science
 
-## 참고 문헌
+## References
 
 - Ericsson, K.A. et al. (1993). "The role of deliberate practice." *Psychological Review*
 - Shea, J.B. & Morgan, R.L. (1979). "Contextual interference effects on acquisition, retention, and transfer." *JEP: HLM&P*

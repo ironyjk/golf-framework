@@ -1,214 +1,214 @@
 ---
 name: club-fitting
 version: "0.1.0"
-description: "클럽 피팅·장비 전략 — 드라이버·아이언·웨지·퍼터 선택, 14개 클럽 구성 최적화, 핸디캡별 장비 추천, 한국 시장 맥락."
+description: "Club fitting & equipment strategy — driver, iron, wedge, putter selection, 14-club bag optimization, handicap-based equipment recommendations, Korean market context."
 ---
 
-# 클럽 피팅 & 장비 전략 (Club Fitting)
+# Club Fitting & Equipment Strategy
 
-## 한줄 요약
+## One-Line Summary
 
-**피팅은 스윙을 바꾸는 것이 아니라, 현재 스윙에 맞는 장비를 찾는 것.** 핸디캡 30에서도 피팅 효과가 있으며, 14개 클럽 구성 최적화가 스코어에 직접 기여한다.
+**Fitting doesn't change your swing — it finds the equipment that matches your current swing.** Fitting delivers measurable benefits even at handicap 30, and optimizing your 14-club configuration directly contributes to lower scores.
 
-## 근거 강도
+## Evidence Strength
 
-- 피팅의 퍼포먼스 개선 효과: **중간** (편차 큼, 일반적으로 2~5타)
-- 로프트 갭 일관성: **강함** (거리 갭이 곧 스코어링 갭)
-- 샤프트 플렉스 매칭: **중간** (영향은 있지만 과대 마케팅 주의)
-- 퍼터 길이/라이각: **강함** (아이 라인·스트로크에 직접 영향)
+- Performance gains from fitting: **Moderate** (high variance, typically 2–5 strokes)
+- Loft gap consistency: **Strong** (distance gaps translate directly to scoring gaps)
+- Shaft flex matching: **Moderate** (real impact exists, but beware of marketing hype)
+- Putter length/lie angle: **Strong** (directly affects eye line and stroke mechanics)
 
-## 피팅이 필요한 시점
+## When Fitting Is Needed
 
-| 상황 | 우선순위 |
+| Situation | Priority |
 |---|---|
-| 중고/기성품 구매 후 불편함 | **높음** |
-| 핸디캡 10타+ 변화 | **높음** |
-| 일관적인 미스 방향 (항상 슬라이스 등) | **높음** |
-| 3년+ 같은 클럽 | **중간** |
-| 새 클럽 구매 예정 | **필수** — 구매 전 피팅 |
-| 핸디캡 30+ 입문자 | **중간** — 기본 스펙 확인은 필요 |
+| Discomfort after purchasing used/off-the-rack clubs | **High** |
+| Handicap change of 10+ strokes | **High** |
+| Consistent miss direction (e.g., persistent slice) | **High** |
+| Same clubs for 3+ years | **Medium** |
+| Planning a new club purchase | **Essential** — fit before buying |
+| Beginner at handicap 30+ | **Medium** — basic spec check still necessary |
 
-## 드라이버
+## Driver
 
-### 핵심 스펙
-| 스펙 | 영향 | 기본값 |
+### Key Specifications
+| Spec | Impact | Default Range |
 |---|---|---|
-| **로프트** | 발사각·스핀 | 9.5~12° (스윙 속도에 따라) |
-| **샤프트 플렉스** | 타이밍·탄도 | R/SR/S (스윙 속도 기준) |
-| **샤프트 무게** | 헤드 스피드·컨트롤 | 50~70g |
-| **헤드 크기** | 관용성 | 460cc (최대) |
-| **조절 기능** | 로프트/라이/페이스각 미세 조정 | 대부분 ±2° |
+| **Loft** | Launch angle & spin | 9.5–12° (varies by swing speed) |
+| **Shaft Flex** | Timing & trajectory | R/SR/S (based on swing speed) |
+| **Shaft Weight** | Head speed & control | 50–70g |
+| **Head Size** | Forgiveness | 460cc (maximum) |
+| **Adjustability** | Fine-tune loft/lie/face angle | Most ±2° |
 
-### 스윙 속도별 추천 로프트
-| 드라이버 스윙 속도 | 로프트 | 비고 |
+### Recommended Loft by Swing Speed
+| Driver Swing Speed | Loft | Notes |
 |---|---|---|
-| ~85mph | 12~13° | 높은 발사각 필요 |
-| 85~95mph | 10.5~12° | 대부분의 아마추어 |
-| 95~105mph | 9.5~10.5° | 중상급 |
-| 105mph+ | 8.5~10° | 상급/프로 |
+| ~85 mph | 12–13° | Needs high launch angle |
+| 85–95 mph | 10.5–12° | Most amateurs |
+| 95–105 mph | 9.5–10.5° | Upper-intermediate |
+| 105 mph+ | 8.5–10° | Advanced/Pro |
 
-### 샤프트 플렉스 기준 (대략적)
-| 드라이버 스윙 속도 | 플렉스 |
+### Shaft Flex Guidelines (Approximate)
+| Driver Swing Speed | Flex |
 |---|---|
-| ~80mph | L (Ladies) |
-| 80~90mph | R (Regular) |
-| 90~100mph | SR 또는 S (Stiff) |
-| 100~110mph | S 또는 X (Extra Stiff) |
-| 110mph+ | X 또는 TX |
+| ~80 mph | L (Ladies) |
+| 80–90 mph | R (Regular) |
+| 90–100 mph | SR or S (Stiff) |
+| 100–110 mph | S or X (Extra Stiff) |
+| 110 mph+ | X or TX |
 
-## 아이언
+## Irons
 
-### 캐비티백 vs 머슬백 vs 하이브리드
+### Cavity Back vs. Muscle Back vs. Hybrid
 
-| 유형 | 관용성 | 비거리 | 조작성 | 추천 핸디캡 |
+| Type | Forgiveness | Distance | Workability | Recommended Handicap |
 |---|---|---|---|---|
-| 슈퍼 GI (게임 개선) | 최고 | 최고 | 낮음 | 25+ |
-| 게임 개선 (GI) | 높음 | 높음 | 중간 | 15~25 |
-| 플레이어 CB | 중간 | 중간 | 높음 | 5~15 |
-| 머슬백 (블레이드) | 낮음 | 낮음 | 최고 | 0~5 |
+| Super GI (Game Improvement) | Highest | Highest | Low | 25+ |
+| Game Improvement (GI) | High | High | Medium | 15–25 |
+| Player CB | Medium | Medium | High | 5–15 |
+| Muscle Back (Blade) | Low | Low | Highest | 0–5 |
 
-### 아이언 세트 구성
-- **입문~중급**: 5번~PW (6개) + 하이브리드 4번
-- **중급~상급**: 4번~PW (7개) 또는 3번~PW
-- **상급**: 3번~PW 블레이드 또는 콤보 (롱아이언 CB + 숏아이언 MB)
+### Iron Set Configuration
+- **Beginner to Intermediate**: 5i–PW (6 clubs) + 4-hybrid
+- **Intermediate to Advanced**: 4i–PW (7 clubs) or 3i–PW
+- **Advanced**: 3i–PW blades or combo set (long irons CB + short irons MB)
 
-### 로프트 갭 확인 (중요!)
-- 각 클럽 간 거리 차이가 **10~15야드**로 일정해야 함
-- 현대 아이언은 로프트가 강해짐 (7번이 예전 5번 로프트)
-- 갭이 불규칙하면 → 특정 거리를 커버 못 함
+### Loft Gap Verification (Critical!)
+- Distance gaps between consecutive clubs should be a consistent **10–15 yards**
+- Modern irons have stronger lofts (today's 7-iron = yesterday's 5-iron loft)
+- Irregular gaps → uncovered distances on the course
 
-## 웨지
+## Wedges
 
-### 웨지 구성 (로프트 갭 4~6°)
-| 구성 | PW | GW | SW | LW | 비고 |
+### Wedge Configuration (4–6° Loft Gaps)
+| Setup | PW | GW | SW | LW | Notes |
 |---|---|---|---|---|---|
-| **3웨지** | 44~46° | 50° | 54~56° | — | 표준 |
-| **4웨지** | 44~46° | 50° | 54° | 58~60° | 숏게임 중시 |
+| **3-Wedge** | 44–46° | 50° | 54–56° | — | Standard |
+| **4-Wedge** | 44–46° | 50° | 54° | 58–60° | Short game emphasis |
 
-### 바운스 선택
-| 바운스 | 조건 | 추천 |
+### Bounce Selection
+| Bounce | Conditions | Recommendation |
 |---|---|---|
-| 낮음 (4~6°) | 단단한 지면, 타이트한 라이 | 상급자 |
-| 중간 (8~10°) | 대부분의 조건 | **기본 추천** |
-| 높음 (12~14°) | 부드러운 지면, 벙커 | 초중급, 벙커 많은 코스 |
+| Low (4–6°) | Firm turf, tight lies | Advanced players |
+| Medium (8–10°) | Most conditions | **Default recommendation** |
+| High (12–14°) | Soft turf, bunkers | Beginners/intermediates, bunker-heavy courses |
 
-### 그라인드
-- **풀 솔**: 관용성 높음, 대부분의 샷. 초중급 추천
-- **미드 그라인드**: 다용도. 중상급
-- **하이토 그라인드**: 오픈 페이스 로브샷. 상급자
+### Grind
+- **Full Sole**: High forgiveness, most shot types. Recommended for beginners/intermediates
+- **Mid Grind**: Versatile. Upper-intermediate
+- **High-Toe Grind**: Open-face lob shots. Advanced players
 
-## 퍼터
+## Putter
 
-### 헤드 타입
-| 타입 | 특징 | 스트로크 타입 |
+### Head Types
+| Type | Characteristics | Stroke Type |
 |---|---|---|
-| **블레이드** | 전통적, 가벼움 | 아크 스트로크 (문 여닫듯이) |
-| **말렛** | MOI 높음, 안정적 | 직선 스트로크 |
-| **하이 MOI** | 최대 관용성 | 직선 스트로크, 긴 퍼트 안정 |
+| **Blade** | Traditional, lightweight | Arc stroke (door-swing motion) |
+| **Mallet** | High MOI, stable | Straight-back-straight-through |
+| **High MOI** | Maximum forgiveness | Straight stroke, stable on long putts |
 
-### 퍼터 길이
-- 표준: 34인치
-- 키에 따라: 32~36인치
-- **팔을 자연스럽게 내렸을 때** 손이 오는 위치가 기준
+### Putter Length
+- Standard: 34 inches
+- Height-dependent: 32–36 inches
+- **Reference point**: where hands naturally hang when arms are relaxed
 
-### 라이각
-- 솔이 지면에 평평하게 놓여야 함
-- 토 업(toe up) → 왼쪽 미스
-- 힐 업(heel up) → 오른쪽 미스
+### Lie Angle
+- The sole should sit flat on the ground at address
+- Toe up → misses left
+- Heel up → misses right
 
-## 14개 클럽 구성 최적화
+## 14-Club Bag Optimization
 
-### 핸디캡 30+ (입문)
+### Handicap 30+ (Beginner)
 ```
-드라이버 (10.5~12°)
-하이브리드 4번 (22~24°)
-하이브리드 5번 (25~27°)
-6번~PW 아이언 (GI)
+Driver (10.5–12°)
+4-Hybrid (22–24°)
+5-Hybrid (25–27°)
+6i–PW Irons (GI)
 GW (50°)
 SW (56°)
-퍼터
-= 11개 (여유 3개: 3W, 7W, 또는 추가 웨지)
+Putter
+= 11 clubs (3 slots open: 3W, 7W, or additional wedge)
 ```
 
-### 핸디캡 15~25
+### Handicap 15–25
 ```
-드라이버 (10.5°)
-3번 우드 (15°)
-하이브리드 4번 (22°)
-5번~PW 아이언 (GI)
+Driver (10.5°)
+3-Wood (15°)
+4-Hybrid (22°)
+5i–PW Irons (GI)
 GW (50°)
 SW (54°)
 LW (58°)
-퍼터
-= 13개
+Putter
+= 13 clubs
 ```
 
-### 핸디캡 5~15
+### Handicap 5–15
 ```
-드라이버 (9.5~10.5°)
-3번 우드 (15°)
-하이브리드 또는 유틸리티 (19~21°)
-4번~PW 아이언 (플레이어 CB)
+Driver (9.5–10.5°)
+3-Wood (15°)
+Hybrid or Utility Iron (19–21°)
+4i–PW Irons (Player CB)
 GW (50°)
 SW (54°)
 LW (58°)
-퍼터
-= 14개
+Putter
+= 14 clubs
 ```
 
-## 한국 시장 맥락
+## Korean Market Context
 
-### 피팅 센터
-- **서울**: 골프존 피팅센터, 타이틀리스트 퍼포먼스 센터, 캘러웨이 피팅, PXG 피팅
-- **지방**: 대형 골프샵 내 론치모니터 피팅 (정밀도 차이)
-- **비용**: 유료 (5~20만원) vs 구매 조건 무료
-- **팁**: 구매 전 피팅 → 스펙 확인 → 최적 가격 찾기 (오프라인/온라인 비교)
+### Fitting Centers
+- **Seoul**: Golfzon Fitting Center, Titleist Performance Center, Callaway Fitting, PXG Fitting
+- **Regional**: Launch monitor fitting inside large golf shops (precision varies)
+- **Cost**: Paid (50,000–200,000 KRW) vs. complimentary with purchase
+- **Tip**: Fit before buying → confirm specs → find best price (compare online/offline)
 
-### 가격대 (2026년 기준, 신품)
-| 등급 | 드라이버 | 아이언 세트 | 풀 세트 |
+### Price Ranges (2026, New)
+| Tier | Driver | Iron Set | Full Set |
 |---|---|---|---|
-| 입문 | 20~40만 | 30~60만 | 80~150만 |
-| 중급 | 40~70만 | 60~120만 | 200~350만 |
-| 상급 | 60~100만 | 100~200만 | 350~600만 |
-| 프리미엄 | 80~150만 | 150~300만+ | 500만+ |
+| Entry | 200–400K KRW | 300–600K KRW | 800K–1.5M KRW |
+| Intermediate | 400–700K KRW | 600K–1.2M KRW | 2–3.5M KRW |
+| Advanced | 600K–1M KRW | 1–2M KRW | 3.5–6M KRW |
+| Premium | 800K–1.5M KRW | 1.5–3M+ KRW | 5M+ KRW |
 
-### 중고 시장
-- **골프존 마켓**: 검증된 중고
-- **번개장터/당근마켓**: 개인 거래
-- **교체 시기**: 드라이버 3~5년, 아이언 5~8년, 웨지 1~3년 (그루브 마모)
+### Used Market
+- **Golfzon Market**: Verified pre-owned
+- **Bungaejangter / Danggeun Market** (당근마켓): Peer-to-peer transactions
+- **Replacement cycle**: Driver 3–5 years, irons 5–8 years, wedges 1–3 years (groove wear)
 
-### 인기 브랜드 (한국)
-- **드라이버**: 테일러메이드, 캘러웨이, 타이틀리스트, 핑
-- **아이언**: 타이틀리스트, 미즈노, 핑, 테일러메이드
-- **웨지**: 타이틀리스트 보키, 클리블랜드, 캘러웨이 JAWS
-- **퍼터**: 스카티 카메론, 오디세이, 핑
-- **한국 브랜드**: PXG(한국 인기), 혼마(일본), 마루망
+### Popular Brands in Korea
+- **Drivers**: TaylorMade, Callaway, Titleist, Ping
+- **Irons**: Titleist, Mizuno, Ping, TaylorMade
+- **Wedges**: Titleist Vokey, Cleveland, Callaway JAWS
+- **Putters**: Scotty Cameron, Odyssey, Ping
+- **Korean-market favorites**: PXG (strong Korean demand), Honma (Japan), Maruman
 
-## 안티패턴
+## Anti-Patterns
 
-- **피팅 없이 비싼 클럽 구매** — 스펙이 안 맞으면 비싼 클럽 = 비싼 미스
-- **프로가 쓰는 클럽 따라하기** — 프로의 스윙 스피드·일관성은 아마추어와 다른 세계
-- **블레이드 아이언 욕심** — 핸디캡 15 이상이면 GI가 훨씬 유리
-- **웨지 로프트 갭 무시** — PW(46°) + SW(56°) = 10° 갭 → 50° 필요
-- **퍼터 수시 교체** — 퍼터는 신뢰가 핵심. 자주 바꾸면 적응 안 됨
-- **최신 모델 매년 구매** — 드라이버 기술 혁신은 2~3년 주기. 매년 바꿀 필요 없음
+- **Buying expensive clubs without fitting** — wrong specs turn an expensive club into an expensive miss
+- **Copying what the pros use** — pro swing speed and consistency are a different world from amateur golf
+- **Blade iron ambition** — if your handicap is 15+, GI irons are far more advantageous
+- **Ignoring wedge loft gaps** — PW (46°) + SW (56°) = 10° gap → you need a 50°
+- **Frequently swapping putters** — trust is the core of putting; constant changes prevent adaptation
+- **Buying the latest model every year** — driver technology innovation cycles every 2–3 years; annual upgrades are unnecessary
 
-## 한계
+## Limitations
 
-1. 피팅은 **현재 스윙 기준** — 스윙이 바뀌면 피팅도 다시
-2. 론치모니터 환경(실내 vs 실외)에 따라 결과 차이
-3. 장비로 스윙 결함을 완전히 보상할 수 없음
-4. 가격과 퍼포먼스가 비례하지 않는 영역 다수
+1. Fitting is based on **your current swing** — if your swing changes, re-fit
+2. Launch monitor environment (indoor vs. outdoor) can produce different results
+3. Equipment cannot fully compensate for swing flaws
+4. Many areas where price and performance are not proportional
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `strokes-gained` — 데이터로 어떤 클럽이 문제인지 파악
-- `short-game` — 웨지 구성과 거리 매트릭스 연결
-- `scoring-strategy` — 핸디캡별 최적 클럽 구성
+- `strokes-gained` — use data to identify which club is the problem
+- `short-game` — connect wedge configuration with distance matrix
+- `scoring-strategy` — optimal club configuration by handicap
 
-## 참고 문헌
+## References
 
 - Wishon, T. *The Search for the Perfect Golf Club* (2006)
 - Maltby, R. *Golf Club Design, Fitting, Alteration & Repair* (6th ed.)
-- TXG (True Experience in Golf) — YouTube 피팅 데이터
-- MyGolfSpy — 독립 클럽 테스트 리뷰
+- TXG (True Experience in Golf) — YouTube fitting data
+- MyGolfSpy — Independent club testing reviews

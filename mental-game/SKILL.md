@@ -1,175 +1,175 @@
 ---
 name: mental-game
 version: "0.1.0"
-description: "골프 멘탈 게임 — Bob Rotella의 자신감 구축, Timothy Gallwey의 Inner Game, 프리샷 루틴, 라운드 중 감정 관리, 대회 압박 대응."
+description: "Golf Mental Game — Bob Rotella's confidence building, Timothy Gallwey's Inner Game, pre-shot routines, emotional management during rounds, and competition pressure response."
 ---
 
-# 골프 멘탈 게임 (Mental Game)
+# Golf Mental Game
 
-## 한줄 요약
+## One-Line Summary
 
-**골프는 4시간 동안 실제로 공을 치는 시간이 3분에 불과하다. 나머지 3시간 57분의 '생각'이 스코어를 결정한다.** 프리샷 루틴, 현재 샷 집중, 자기 대화 관리가 핵심.
+**In a 4-hour round of golf, the actual time spent hitting the ball is only about 3 minutes. The remaining 3 hours and 57 minutes of 'thinking' determine your score.** The keys are a pre-shot routine, present-shot focus, and self-talk management.
 
-## 근거 강도
+## Strength of Evidence
 
-- 프리샷 루틴의 일관성과 퍼포먼스 상관: **강함** (Cotterill 2010, 다수 연구)
-- 자기 대화(self-talk) 조절: **강함** (스포츠 심리학 전반)
-- Inner Game (Self 1/Self 2): **중간** (이론적 프레임, 실증 연구 제한적)
-- 시각화(visualization)의 효과: **중간** (일부 연구 긍정적, 과대 해석 주의)
+- Consistency of pre-shot routines and performance correlation: **Strong** (Cotterill 2010, multiple studies)
+- Self-talk regulation: **Strong** (sports psychology literature broadly)
+- Inner Game (Self 1/Self 2): **Moderate** (theoretical framework, limited empirical research)
+- Visualization effectiveness: **Moderate** (some positive research, caution against overinterpretation)
 
-## 이론·근거 출처
+## Theoretical Sources
 
 - **Bob Rotella** — *Golf is Not a Game of Perfect* (1995), *Golf is a Game of Confidence*
 - **Timothy Gallwey** — *The Inner Game of Golf* (1981)
 - **Dr. Joseph Parent** — *Zen Golf* (2002)
 - **Pia Nilsson & Lynn Marriott** — VISION54
 
-## 프리샷 루틴 (Pre-Shot Routine)
+## Pre-Shot Routine
 
-### 왜 필요한가
-- 일관된 루틴 = 일관된 결과
-- 불안·잡생각을 차단하는 **절차적 트리거**
-- PGA Tour 선수의 루틴은 15~25초, 편차 2초 이내
+### Why It Matters
+- Consistent routine = consistent results
+- A **procedural trigger** that blocks anxiety and intrusive thoughts
+- PGA Tour players' routines last 15–25 seconds with less than 2-second variance
 
-### 4단계 프리샷 루틴
+### 4-Step Pre-Shot Routine
 
-#### 1단계: 평가 (공 뒤에서, 10초)
-- 거리, 바람, 경사 확인
-- 클럽 선택 결정
-- 타겟 설정 (구체적 지점 — "그린 중앙 왼쪽 깃발대" 수준)
+#### Step 1: Assessment (Behind the Ball, 10 seconds)
+- Check distance, wind, and slope
+- Finalize club selection
+- Set a specific target — e.g., "left of center on the green, toward the flag"
 
-#### 2단계: 시각화 (공 뒤에서, 5초)
-- 공이 날아가는 궤적을 상상
-- 착지 지점까지 그림
-- **한 가지만** 상상 (두 가지 옵션 = 혼란)
+#### Step 2: Visualization (Behind the Ball, 5 seconds)
+- Imagine the ball's trajectory in flight
+- Picture it all the way to the landing spot
+- Visualize **one option only** (two options = confusion)
 
-#### 3단계: 셋업 (공 옆으로 이동, 5초)
-- 타겟을 한번 더 확인
-- 어드레스
-- 몸이 편안한지 체크
+#### Step 3: Setup (Move Beside the Ball, 5 seconds)
+- Confirm target one more time
+- Take your address position
+- Check that your body feels comfortable
 
-#### 4단계: 실행 (3초 이내)
-- **생각하지 말고 친다** — "Go" 트리거
-- 백스윙 시작 후 스윙에 대한 생각 = 간섭
-- Gallwey: "Self 2(본능)에게 맡겨라"
+#### Step 4: Execution (Within 3 seconds)
+- **Don't think — just hit** — use a "Go" trigger
+- Any swing thought after the backswing begins = interference
+- Gallwey: "Trust Self 2 (instinct)"
 
-### 루틴 완성도 체크
-- 매 샷 같은 시간? (타이머 연습)
-- 중간에 멈추면 → 처음부터 다시 (리셋)
-- 루틴 중 잡생각 → 뒤로 물러나 → 리셋
+### Routine Completeness Check
+- Same duration every shot? (Practice with a timer)
+- If interrupted mid-routine → restart from the beginning (reset)
+- Intrusive thought during routine → step back → reset
 
 ## Inner Game (Gallwey)
 
 ### Self 1 vs Self 2
-- **Self 1**: 의식적 마음 (분석, 판단, 비판, 걱정)
-  - "팔을 이렇게 하고, 힙은 이렇게..."
-  - "앞에서 OB 쳤으니까 조심해야 해"
-- **Self 2**: 무의식적 마음 (본능, 근육 기억, 자연스러운 실행)
-  - 연습장에서 생각 없이 술술 칠 때의 그 느낌
+- **Self 1**: The conscious mind (analysis, judgment, criticism, worry)
+  - "Keep your arm like this, rotate your hips like that..."
+  - "I hit OB earlier, so I need to be careful"
+- **Self 2**: The unconscious mind (instinct, muscle memory, natural execution)
+  - That feeling when you're hitting effortlessly on the range without thinking
 
-### 핵심 원칙
-- Self 1이 Self 2를 **방해하지 않도록** 하는 것이 목표
-- Self 1을 "끄는" 것이 아니라 **다른 일을 시키는 것**
-  - 예: "클럽 헤드의 무게를 느껴봐" → Self 1이 감각에 집중 → 간섭 줄어듦
-- **판단하지 말 것**: "나쁜 샷"이 아니라 "오른쪽으로 20야드 갔다" (사실만)
+### Core Principles
+- The goal is to prevent Self 1 from **interfering** with Self 2
+- Not about "turning off" Self 1, but **giving it a different task**
+  - Example: "Feel the weight of the clubhead" → Self 1 focuses on sensation → less interference
+- **Do not judge**: Not "bad shot," but "it went 20 yards right" (just the facts)
 
-## 자기 대화 (Self-Talk) 관리
+## Self-Talk Management
 
-### 나쁜 자기 대화 (피해야 할 것)
-- "OB 치면 안 돼" → 뇌는 "안 돼"를 무시하고 "OB"에 집중
-- "왜 맨날 이 홀에서 못 치지"
-- "아까 그 퍼트만 넣었으면..."
-- "동반자가 보고 있어"
+### Harmful Self-Talk (What to Avoid)
+- "Don't hit it OB" → the brain ignores "don't" and focuses on "OB"
+- "Why do I always play this hole badly?"
+- "If only I'd made that putt earlier..."
+- "Everyone is watching me"
 
-### 좋은 자기 대화 (권장)
-- **긍정적 타겟**: "페어웨이 왼쪽 나무를 향해"
-- **과정 중심**: "평소 루틴대로"
-- **현재 시제**: "이 샷에만 집중"
-- **단순한 키워드**: "부드럽게", "리듬", "스무스"
+### Constructive Self-Talk (Recommended)
+- **Positive target**: "Toward the tree on the left side of the fairway"
+- **Process-focused**: "Stick to my routine"
+- **Present tense**: "Focus only on this shot"
+- **Simple keywords**: "Smooth," "Rhythm," "Easy"
 
-### 나쁜 샷 후 감정 관리
+### Emotional Management After a Bad Shot
 
-#### 10초 규칙
-- 나쁜 샷 후 **10초 동안만** 화내도 됨
-- 10초 후 → 다음 샷으로 전환
-- 물리적 트리거: 장갑 벗었다 끼기, 깊은 숨 3회
+#### The 10-Second Rule
+- After a bad shot, allow yourself to be upset for **10 seconds only**
+- After 10 seconds → shift to the next shot
+- Physical triggers: remove and replace your glove, take 3 deep breaths
 
-#### "다음 샷이 가장 중요한 샷"
-- 이전 샷은 바꿀 수 없음
-- 남은 홀에서 만회할 기회가 있음
-- **한 홀 = 하나의 라운드** 마인드
+#### "The Next Shot Is the Most Important Shot"
+- You cannot change the previous shot
+- There are recovery opportunities in the remaining holes
+- **One hole = one round** mindset
 
-## 라운드 관리
+## Round Management
 
-### 티오프 전 (30분)
-- 연습 스윙 5~10분 (부드럽게, 리듬 잡기)
-- 퍼팅 그린 10분 (그린 속도 파악)
-- **기대치 설정**: "오늘 모든 샷을 완벽하게 할 수 없다. 루틴에 집중한다"
+### Before Tee-Off (30 Minutes)
+- Practice swings for 5–10 minutes (smooth, establish rhythm)
+- Putting green for 10 minutes (gauge green speed)
+- **Set expectations**: "I can't hit every shot perfectly today. I will focus on my routine"
 
-### 전반 9홀
-- 보수적으로 시작 (1~3홀은 워밍업)
-- 스코어에 집착하지 말 것
-- 코스와 바람에 적응하는 시간
+### Front 9
+- Start conservatively (holes 1–3 are warm-up)
+- Don't fixate on the score
+- Allow time to adapt to the course and wind
 
-### 후반 9홀
-- 좋은 라운드일 때: "점수 계산하지 말 것" → 과정에 집중
-- 나쁜 라운드일 때: "남은 9홀을 별도의 라운드로" → 리셋
+### Back 9
+- When playing well: "Don't calculate the score" → focus on process
+- When playing poorly: "Treat the remaining 9 holes as a separate round" → reset
 
-### "흐름 상태" 진입 조건
-- 루틴이 자동화되어 있을 때
-- 결과에 대한 기대/두려움이 없을 때
-- 한 샷씩에만 집중할 때
-- 강제할 수 없음 — 조건을 만들 뿐
+### Conditions for Entering "Flow State"
+- When the routine is automated
+- When there is no expectation or fear of results
+- When focusing on one shot at a time
+- Cannot be forced — you can only create the conditions
 
-## 대회/내기 압박 관리
+## Competition and Pressure Management
 
-### 첫 티 불안
-- **정상적인 반응** — 프로도 긴장함
-- 긴장 = 에너지. "무서운 게 아니라 흥분되는 것"으로 재프레이밍
-- 첫 티샷: 안전한 클럽 (3번 우드 or 하이브리드도 OK)
-- 신체 이완: 어깨 돌리기, 깊은 복식 호흡 3회
+### First Tee Anxiety
+- **A normal response** — even professionals get nervous
+- Nerves = energy. Reframe from "I'm scared" to "I'm excited"
+- First tee shot: safe club (3-wood or hybrid is perfectly fine)
+- Physical relaxation: shoulder rolls, 3 deep diaphragmatic breaths
 
-### 중요한 퍼트
-- 평소와 같은 루틴 (시간을 늘리지 말 것)
-- "넣어야 해"가 아닌 "좋은 스트로크를 하자"
-- 결과보다 과정
+### High-Stakes Putts
+- Same routine as always (don't slow down)
+- Not "I have to make this" but "Let me make a good stroke"
+- Process over outcome
 
-### 동반자 의식
-- "다른 사람이 보고 있다" → 가장 흔한 불안 원인
-- **사실**: 모든 사람은 자기 공에 집중하고 있음
-- 전략: 자기 루틴에 몰입 → 외부 차단
+### Self-Consciousness Around Playing Partners
+- "People are watching me" → the most common source of anxiety
+- **Reality**: Everyone is focused on their own ball
+- Strategy: immerse yourself in your routine → block out external factors
 
-## 한국 골프 문화 맥락
+## Korean Golf Culture Context
 
-- **접대 골프**: 스코어보다 매너·분위기가 중요한 상황 → 완벽주의 내려놓기
-- **동호회 내기**: 스킨스, 뉴페리오 → 압박 상황 연습 기회로 활용
-- **4인 1팀 문화**: 플레이 속도 압박 → 루틴을 15~20초로 간결하게
-- **캐디 조언**: 때로 혼란을 줄 수 있음 → "감사합니다, 제가 판단할게요"
-- **19번 홀 (식사/반주)**: 라운드 후 자기 비하적 반추 피하기 → 좋았던 3샷만 이야기
+- **Business golf** (접대 골프): When etiquette and atmosphere matter more than the score → let go of perfectionism
+- **Club competitions and wagers** (동호회 내기): Skins games, New Peoria system → use as opportunities to practice under pressure
+- **Foursome culture** (4인 1팀): Pace-of-play pressure → keep your routine concise at 15–20 seconds
+- **Caddie advice** (캐디 조언): Can sometimes create confusion → "Thank you, I'll make my own call"
+- **19th hole** (식사/반주, post-round meal and drinks): Avoid self-deprecating rehashing of the round → talk about only your 3 best shots
 
-## 안티패턴
+## Anti-Patterns
 
-- **스윙 생각하면서 치기** — 연습장에서는 OK, 필드에서는 NO. 필드는 "타겟에 집중"
-- **모든 샷 완벽 추구** — 프로도 미스함. 핸디캡 20이면 18개 미스가 정상
-- **과거 샷 반추** — "3홀 전 그 퍼트만..."은 현재 샷을 망침
-- **점수 계산 중독** — 매 홀 계산 → 압박 상승
-- **기술적 팁 라운드 중 시도** — "유튜브에서 본 그 팁" → 혼란만 가중
+- **Thinking about mechanics during a swing** — OK on the range, NOT on the course. On the course, "focus on the target"
+- **Pursuing perfection on every shot** — Even pros miss. If your handicap is 20, 18 misses per round is normal
+- **Ruminating on past shots** — "If only that putt on hole 3..." destroys the current shot
+- **Score-counting addiction** — Calculating after every hole → escalating pressure
+- **Trying new technical tips mid-round** — "That tip I saw on YouTube" → only adds confusion
 
-## 한계
+## Limitations
 
-1. 멘탈 게임은 **스윙 기술과 독립적이지 않음** — 기본 실력 위에 얹히는 것
-2. 심각한 퍼포먼스 불안, 이프스(yips) → 스포츠 심리 전문가 상담 필요
-3. 성격·기질에 따라 효과적인 전략이 다름
-4. "멘탈로 모든 것을 해결"은 과대 기대 — 기술·체력·전략·멘탈의 균형
+1. The mental game is **not independent of swing technique** — it builds on top of fundamental skill
+2. Severe performance anxiety or yips → consult a sports psychology professional
+3. Effective strategies vary by personality and temperament
+4. "The mental game solves everything" is an unrealistic expectation — balance among technique, fitness, strategy, and mental game is essential
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `course-management` — 전략적 판단이 멘탈 압박을 줄여줌
-- `practice-design` — 압박 상황 시뮬레이션 연습
-- `scoring-strategy` — 현실적 기대치 설정
-- ACT (`/counsel`) — 수용전념치료의 마인드풀니스 기법 적용 가능
+- `course-management` — Strategic decision-making reduces mental pressure
+- `practice-design` — Simulating pressure situations in practice
+- `scoring-strategy` — Setting realistic expectations
+- ACT (`/counsel`) — Mindfulness techniques from Acceptance and Commitment Therapy are applicable
 
-## 참고 문헌
+## References
 
 - Rotella, B. *Golf is Not a Game of Perfect* (1995)
 - Gallwey, T. *The Inner Game of Golf* (1981)

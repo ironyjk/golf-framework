@@ -1,212 +1,212 @@
 ---
 name: scoring-strategy
 version: "0.1.0"
-description: "스코어 전략 — 핸디캡별 타수 감소 로드맵. 100+ → 90 → 80 → 70대 각 단계별 집중 영역, 현실적 개선 타임라인, 연습 vs 라운드 비율."
+description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stage-specific focus areas for 100+ → 90s → 80s → 70s, realistic improvement timelines, and practice-to-play ratios."
 ---
 
-# 스코어 전략 (Scoring Strategy — Handicap Reduction Roadmap)
+# Scoring Strategy — Handicap Reduction Roadmap
 
-## 한줄 요약
+## One-Line Summary
 
-**핸디캡마다 "병목"이 다르다.** 100+는 컨택 일관성, 90대는 페널티 제거, 80대는 어프로치 정확도, 70대는 코스 매니지먼트 최적화. 자기 핸디캡의 병목을 정확히 파악하고 집중하면 가장 빠르게 개선된다.
+**Every handicap level has a different bottleneck.** At 100+, it's contact consistency; in the 90s, penalty elimination; in the 80s, approach accuracy; in the 70s, course management optimization. Identify the bottleneck for your handicap and focus there for the fastest improvement.
 
-## 근거 강도
+## Evidence Strength
 
-- 핸디캡별 주요 약점 패턴: **강함** (Shot Scope, Arccos 대규모 데이터)
-- 개선 타임라인 추정: **중간** (개인차 매우 큼)
-- 연습 시간 배분 권장: **중간** (Strokes Gained 기반 추론)
+- Handicap-specific weakness patterns: **Strong** (Shot Scope, Arccos large-scale data)
+- Improvement timeline estimates: **Moderate** (high individual variance)
+- Practice time allocation recommendations: **Moderate** (Strokes Gained-based inference)
 
-## 핸디캡별 로드맵
-
----
-
-### 100+ → 90대 (초보 → 보기 플레이어)
-
-**병목**: 컨택 일관성 + 페널티 타수
-
-#### 핵심 목표
-- 공을 **일관되게 앞으로** 보내기
-- OB/해저드/위플 줄이기
-- 18홀 중 페널티 4개 → 1~2개
-
-#### 집중 영역
-| 영역 | 비중 | 구체적 |
-|---|---|---|
-| **기본 컨택** | 40% | 하프스윙으로 일관된 컨택 연습 |
-| **코스 매니지먼트** | 25% | OB 있는 홀에서 안전 클럽 (3W/하이브리드) |
-| **숏게임 기초** | 20% | 그린 근처에서 한 번에 올리기 (칩) |
-| **퍼팅** | 15% | 3퍼트 줄이기 (래그 퍼팅) |
-
-#### 프로 레슨 권장
-- **필수**. 독학으로는 잘못된 습관 고착
-- 주 1회 레슨 + 주 1회 연습 (최소)
-
-#### 현실적 타임라인
-- 레슨 + 주 2회 연습: **3~6개월**
-- 주 1회 연습: **6~12개월**
-
-#### 하지 말아야 할 것
-- 비거리 욕심 (일관성이 먼저)
-- 유튜브 팁 과다 수집 (한 명의 프로 레슨에 집중)
-- 어려운 코스에서 자존심 라운드
+## Handicap Roadmap
 
 ---
 
-### 90대 → 80대 (보기 → 싱글 진입)
+### 100+ → 90s (Beginner → Bogey Golfer)
 
-**병목**: 숏게임 + 페널티 잔존 + 코스 매니지먼트
+**Bottleneck**: Contact consistency + penalty strokes
 
-#### 핵심 목표
-- GIR 3~5개 → 7~8개
-- 업앤다운 15% → 30%+
-- 더블보기+ 라운드당 5~6개 → 2~3개
-- 3퍼트 5~6개 → 2~3개
+#### Key Objectives
+- Hit the ball **consistently forward**
+- Reduce OB/hazard/whiff occurrences
+- Cut penalty strokes from 4 per 18 holes → 1–2
 
-#### 집중 영역
-| 영역 | 비중 | 구체적 |
+#### Focus Areas
+| Area | Weight | Specifics |
 |---|---|---|
-| **숏게임** | 35% | 50~100야드 거리 제어, 칩/피치 다양화 |
-| **코스 매니지먼트** | 25% | 보기 회피 전략, 안전 클럽 선택 |
-| **어프로치** | 25% | 150야드 이내 그린 적중률 |
-| **퍼팅** | 15% | 3퍼트 방지, 6피트 이내 확률 |
+| **Basic Contact** | 40% | Half-swing drills for consistent strike |
+| **Course Management** | 25% | Safe club selection on OB holes (3W/hybrid) |
+| **Short Game Basics** | 20% | Get on the green in one from greenside (chip) |
+| **Putting** | 15% | Eliminate 3-putts (lag putting) |
 
-#### "90의 벽" 핵심
-- **더블보기를 보기로 바꾸면 80대**
-- 더블보기의 원인: 페널티, 숏사이드 미스, 벙커 탈출 실패, 3퍼트
-- 이 모든 것은 **판단력 + 숏게임**으로 해결 가능
+#### Lessons Recommendation
+- **Essential**. Self-teaching entrenches bad habits
+- Minimum: 1 lesson/week + 1 practice session/week
 
-#### 현실적 타임라인
-- 주 2~3회 연습 + 월 2~3회 라운드: **6~12개월**
-- 주 1회 연습 + 월 1~2회 라운드: **1~2년**
+#### Realistic Timeline
+- Lessons + 2× practice/week: **3–6 months**
+- 1× practice/week: **6–12 months**
+
+#### What NOT to Do
+- Chase distance (consistency comes first)
+- Overconsume YouTube tips (commit to one instructor)
+- Play ego rounds on difficult courses
 
 ---
 
-### 80대 → 70대 (싱글 → 로우 싱글)
+### 90s → 80s (Bogey → Single-Digit Entry)
 
-**병목**: 어프로치 정확도 + 퍼팅 + 정밀 코스 매니지먼트
+**Bottleneck**: Short game + residual penalties + course management
 
-#### 핵심 목표
-- GIR 8~9개 → 11~12개
-- 스크램블링 30% → 45%+
-- 버디 라운드당 1~2개 → 3~4개
-- Strokes Gained 데이터로 약점 정밀 진단
+#### Key Objectives
+- GIR from 3–5 → 7–8
+- Up-and-down from 15% → 30%+
+- Double bogey+ per round from 5–6 → 2–3
+- 3-putts from 5–6 → 2–3
 
-#### 집중 영역
-| 영역 | 비중 | 구체적 |
+#### Focus Areas
+| Area | Weight | Specifics |
 |---|---|---|
-| **어프로치 정확도** | 30% | 아이언 거리 정밀도, 탄도 제어 |
-| **퍼팅** | 25% | 6~15피트 성공률, 그린 리딩 |
-| **코스 매니지먼트** | 25% | DECADE 레벨 타겟 선정 |
-| **숏게임 정밀** | 20% | 다양한 라이, 로브샷, 정밀 거리 |
+| **Short Game** | 35% | 50–100 yard distance control, chip/pitch variety |
+| **Course Management** | 25% | Bogey avoidance strategy, safe club selection |
+| **Approach** | 25% | Greens hit from inside 150 yards |
+| **Putting** | 15% | 3-putt prevention, make rate inside 6 feet |
 
-#### 80대 → 70대는 "미세 조정"
-- 큰 결함은 이미 없음. 작은 개선의 누적
-- 데이터 추적이 필수 (SG 분석)
-- 프로 코칭의 가치가 가장 큼 (미세한 차이)
+#### The Key to Breaking 90
+- **Turn double bogeys into bogeys and you're in the 80s**
+- Double bogey causes: penalties, short-side misses, failed bunker escapes, 3-putts
+- All solvable through **decision-making + short game**
 
-#### 현실적 타임라인
-- 집중 훈련: **1~2년**
-- 많은 사람이 80대 초반에서 정체 — 이 벽은 시간+양으로 극복
+#### Realistic Timeline
+- 2–3× practice/week + 2–3 rounds/month: **6–12 months**
+- 1× practice/week + 1–2 rounds/month: **1–2 years**
 
 ---
 
-### 70대 → 스크래치 이하 (최적화)
+### 80s → 70s (Single-Digit → Low Single-Digit)
 
-**병목**: 모든 영역의 미세 최적화 + 멘탈
+**Bottleneck**: Approach accuracy + putting + precision course management
 
-#### 핵심 목표
-- GIR 12~13개
-- 스크램블링 55%+
-- 버디 4~6개/라운드
-- 더블보기 거의 없음
+#### Key Objectives
+- GIR from 8–9 → 11–12
+- Scrambling from 30% → 45%+
+- Birdies per round from 1–2 → 3–4
+- Strokes Gained data for precise weakness diagnosis
 
-#### 집중 영역
-| 영역 | 비중 | 구체적 |
+#### Focus Areas
+| Area | Weight | Specifics |
 |---|---|---|
-| **코스 매니지먼트** | 30% | DECADE 완전 적용, 상황별 최적 |
-| **멘탈 게임** | 25% | 압박 관리, 일관성, 흐름 상태 |
-| **정밀 숏게임** | 20% | 업앤다운 50%+, 다양한 라이 |
-| **데이터 분석** | 25% | SG 분석으로 0.1타 단위 최적화 |
+| **Approach Accuracy** | 30% | Iron distance precision, trajectory control |
+| **Putting** | 25% | 6–15 foot make rate, green reading |
+| **Course Management** | 25% | DECADE-level target selection |
+| **Precision Short Game** | 20% | Varied lies, lob shots, distance dialing |
+
+#### 80s → 70s Is "Fine-Tuning"
+- Major flaws are already gone. Progress comes from accumulating small gains
+- Data tracking is essential (SG analysis)
+- Professional coaching delivers the most value here (marginal differences)
+
+#### Realistic Timeline
+- Focused training: **1–2 years**
+- Many golfers plateau in the low 80s — this wall requires both time and volume to break through
 
 ---
 
-## 레슨 vs 자습 가이드
+### 70s → Scratch and Below (Optimization)
 
-| 핸디캡 | 레슨 | 자습 |
+**Bottleneck**: Micro-optimization across all areas + mental game
+
+#### Key Objectives
+- GIR 12–13
+- Scrambling 55%+
+- Birdies 4–6/round
+- Near-zero double bogeys
+
+#### Focus Areas
+| Area | Weight | Specifics |
 |---|---|---|
-| 100+ | **필수** (주 1회 추천) | 레슨 내용 복습만 |
-| 90~100 | **강력 권장** (2주 1회) | 숏게임·퍼팅 연습 |
-| 80~90 | 추천 (월 1~2회) | 연습 비중 증가 |
-| 70~80 | 정기 코칭 (특화) | 데이터 기반 자습 |
-| 70 이하 | 전문 코치 (스윙+멘탈) | 지속적 자기 분석 |
+| **Course Management** | 30% | Full DECADE application, situational optimization |
+| **Mental Game** | 25% | Pressure management, consistency, flow state |
+| **Precision Short Game** | 20% | Up-and-down 50%+, varied lie mastery |
+| **Data Analysis** | 25% | SG analysis for 0.1-stroke optimization |
 
-## 연습 vs 라운드 비율
+---
 
-| 핸디캡 | 연습 : 라운드 | 이유 |
+## Lessons vs. Self-Practice Guide
+
+| Handicap | Lessons | Self-Practice |
 |---|---|---|
-| 100+ | **3:1** | 기본기 반복이 우선 |
-| 90~100 | **2:1** | 연습 + 필드 경험 |
-| 80~90 | **1:1** | 필드에서의 의사결정 경험 |
-| 70~80 | **1:2** | 실전 경험이 더 중요 |
+| 100+ | **Essential** (1×/week recommended) | Review lesson content only |
+| 90–100 | **Strongly recommended** (biweekly) | Short game & putting practice |
+| 80–90 | Recommended (1–2×/month) | Increase practice share |
+| 70–80 | Regular coaching (specialized) | Data-driven self-practice |
+| Below 70 | Expert coach (swing + mental) | Continuous self-analysis |
 
-## 현실적 기대치 관리
+## Practice vs. Play Ratio
 
-### "골프에서 가장 위험한 말"
-- "1달에 10타 줄여보겠다" → 비현실적
-- "유튜브 보고 혼자 고치겠다" → 나쁜 습관 고착
-- "장비를 바꾸면 나아지겠지" → 원인이 장비가 아닌 경우 90%
+| Handicap | Practice : Play | Rationale |
+|---|---|---|
+| 100+ | **3:1** | Fundamentals repetition is the priority |
+| 90–100 | **2:1** | Practice + field experience |
+| 80–90 | **1:1** | On-course decision-making experience |
+| 70–80 | **1:2** | Real-round experience matters more |
 
-### 현실적 개선 속도
-| 기간 | 기대치 (규칙적 연습 + 레슨 가정) |
+## Managing Realistic Expectations
+
+### "The Most Dangerous Phrases in Golf"
+- "I'll drop 10 strokes in a month" → Unrealistic
+- "I'll fix it myself watching YouTube" → Entrenches bad habits
+- "New equipment will fix it" → Equipment is not the cause 90% of the time
+
+### Realistic Improvement Pace
+| Timeframe | Expected Improvement (assuming regular practice + lessons) |
 |---|---|
-| 1개월 | 2~3타 개선 가능 (기술적 결함이 명확한 경우) |
-| 3개월 | 5~7타 개선 가능 |
-| 6개월 | 10타 개선 가능 (100+ → 90대) |
-| 1년 | 10~15타 개선 가능 (90대 → 80대) |
-| 2~3년 | 핸디캡 10 이하 가능 (재능 + 노력) |
+| 1 month | 2–3 stroke improvement possible (if a clear technical flaw exists) |
+| 3 months | 5–7 stroke improvement possible |
+| 6 months | 10 stroke improvement possible (100+ → 90s) |
+| 1 year | 10–15 stroke improvement possible (90s → 80s) |
+| 2–3 years | Single-digit handicap achievable (talent + effort) |
 
-### 정체기 (Plateau) 대응
-- **정상**: 모든 골퍼가 경험함. 특히 80대 초반
-- **원인**: 기술 한계, 연습 루틴 고착, 멘탈 블록
-- **대응**: 
-  1. SG 데이터로 실제 약점 재진단
-  2. 레슨으로 기술적 병목 파악
-  3. 연습 루틴 변경 (블록→랜덤)
-  4. 다른 코스/조건에서 라운드
+### Handling Plateaus
+- **Normal**: Every golfer experiences them. Especially common in the low 80s
+- **Causes**: Technical ceiling, stale practice routines, mental blocks
+- **Remedies**: 
+  1. Re-diagnose actual weaknesses with SG data
+  2. Identify technical bottlenecks through lessons
+  3. Change practice routines (block → random)
+  4. Play different courses/conditions
 
-## 한국 아마추어 맥락
+## Korean Amateur Context
 
-- **월 1~2회 라운드가 현실**: 라운드 부족은 스크린으로 보충 가능 (코스 전략 연습)
-- **비용 부담**: 그린피 15~30만 → 라운드 빈도 제한 → 연습 효율이 더 중요
-- **접대 골프**: 스코어 < 매너. 90 치는 사람이 매너 좋으면 110 치는 사람보다 인기
-- **동호회 경쟁**: 핸디캡 관리가 동기 부여. TheGrint, 카카오골프 활용
-- **겨울 4~5개월**: 스크린 + 체력 훈련 + 숏게임 → 봄에 실력 유지/향상 가능
+- **1–2 rounds/month is the reality**: Limited rounds can be supplemented with simulator play (course strategy practice)
+- **Cost pressure**: Green fees ₩150,000–300,000 → Round frequency is constrained → Practice efficiency matters more
+- **Business golf** (접대 골프): Manners > score. A 90-shooter with good etiquette is more valued than a 110-shooter
+- **Club competition**: Handicap tracking drives motivation. Use TheGrint or Kakao Golf
+- **4–5 month winters**: Simulator + fitness training + short game → Maintain/improve skills by spring
 
-## 안티패턴
+## Anti-Patterns
 
-- **비거리 중심 연습** — 80대 이상에서는 비거리보다 정확도가 중요
-- **프로 스윙 모방** — 자기 체형·유연성에 맞는 스윙이 최선
-- **매 라운드 기록 없이** — 감으로 약점 판단 = 잘못된 연습 배분
-- **동반자와 비교** — 자기 이전 스코어와만 비교
-- **완벽주의** — "오늘 잘 안 치면 의미 없어" → 데이터 축적의 가치 무시
+- **Distance-focused practice** — Above 80s, accuracy outweighs distance
+- **Copying tour pro swings** — The best swing fits your body type and flexibility
+- **Playing without tracking** — Gut-feel weakness diagnosis = misallocated practice
+- **Comparing with playing partners** — Compare only against your own past scores
+- **Perfectionism** — "If I don't play well today, it's meaningless" → Ignores the value of data accumulation
 
-## 한계
+## Limitations
 
-1. 개선 속도는 재능·나이·연습량·레슨 품질에 따라 극도로 다름
-2. 스윙 교정 없이 전략·멘탈만으로는 한계 있음 (특히 80대 이하)
-3. 라운드 빈도가 낮으면 개선 속도 느림 (경험 부족)
+1. Improvement speed varies dramatically based on talent, age, practice volume, and lesson quality
+2. Strategy and mental game alone have limits without swing correction (especially below 80s)
+3. Low round frequency slows improvement (experience deficit)
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `strokes-gained` — 데이터로 병목 진단
-- `practice-design` — 핸디캡별 연습 플랜
-- `course-management` — 전략적 타수 감소
-- `short-game` — 가장 빠른 개선 영역
-- `mental-game` — 80대 이하에서 핵심
+- `strokes-gained` — Data-driven bottleneck diagnosis
+- `practice-design` — Handicap-specific practice plans
+- `course-management` — Strategic stroke reduction
+- `short-game` — The fastest area for improvement
+- `mental-game` — Critical below 80s
 
-## 참고 문헌
+## References
 
-- Broadie, M. *Every Shot Counts* — 핸디캡별 SG 분석
+- Broadie, M. *Every Shot Counts* — SG analysis by handicap
 - Shot Scope Performance Insights — shotscope.com
 - Pelz, D. *Dave Pelz's Scoring Game* (2001)
 - Rotella, B. *Golf is Not a Game of Perfect*

@@ -1,183 +1,183 @@
 ---
 name: short-game
 version: "0.1.0"
-description: "숏게임 — Dave Pelz의 웨지 시스템, 칩·피치 선택, 벙커 기본, 퍼팅 속도 제어, 핸디캡별 업앤다운 목표."
+description: "Short Game — Dave Pelz's wedge system, chip/pitch selection, bunker fundamentals, putting speed control, and up-and-down targets by handicap."
 ---
 
-# 숏게임 (Short Game — Dave Pelz)
+# Short Game (Dave Pelz)
 
-## 한줄 요약
+## One-Line Summary
 
-**전체 샷의 60%는 100야드 이내에서 일어난다.** 웨지 거리 제어(클럭 시스템), 칩/피치 선택, 퍼팅 속도 관리가 가장 빠른 타수 감소 경로.
+**60% of all shots occur within 100 yards.** Wedge distance control (clock system), chip/pitch selection, and putting speed management are the fastest path to lower scores.
 
-## 근거 강도
+## Strength of Evidence
 
-- 숏게임이 타수에 미치는 영향: **강함** (Broadie 데이터 — SG:ATG + SG:Putting = ~44%)
-- Pelz 클럭 시스템: **중간** (실용적이지만 모든 사람에게 맞지는 않음)
-- 퍼팅 속도 > 라인: **강함** (Pelz 연구, 다수 퍼팅 분석)
-- 랜덤 연습 > 블록 연습: **강함** (운동학습 연구)
+- Short game impact on scoring: **Strong** (Broadie data — SG:ATG + SG:Putting ≈ 44%)
+- Pelz clock system: **Moderate** (practical but not universally applicable)
+- Putting speed > line: **Strong** (Pelz research, extensive putt analysis)
+- Random practice > block practice: **Strong** (motor learning research)
 
-## 이론·근거 출처
+## Theory & Source References
 
 - **Dave Pelz** — *Short Game Bible* (1999), *Putting Bible* (2000)
-- **Mark Broadie** — 숏게임 SG 데이터
+- **Mark Broadie** — Short game Strokes Gained data
 - **Stan Utley** — *Art of the Short Game*
 - **James Sieckmann** — *Your Short Game Solution*
 
-## 웨지 거리 제어 (Pelz 클럭 시스템)
+## Wedge Distance Control (Pelz Clock System)
 
-### 원리
-백스윙 크기를 시계 바늘 위치로 표준화:
+### Principle
+Standardize backswing length using clock-hand positions:
 
-| 위치 | 백스윙 | 대략적 거리 비율 |
+| Position | Backswing | Approximate Distance Ratio |
 |---|---|---|
-| **7:30** | 팔이 지면과 수평 이하 | ~50% |
-| **9:00** | 팔이 수평 | ~75% |
-| **10:30** | 3/4 백스윙 | ~85% |
-| **풀 스윙** | 풀 백스윙 | 100% |
+| **7:30** | Arms below horizontal | ~50% |
+| **9:00** | Arms at horizontal | ~75% |
+| **10:30** | 3/4 backswing | ~85% |
+| **Full Swing** | Full backswing | 100% |
 
-### 거리 매트릭스 예시 (개인별로 측정 필수)
+### Distance Matrix Example (Individual Measurement Required)
 
-| 클럭 | PW (46°) | GW (50°) | SW (54°) | LW (58°) |
+| Clock | PW (46°) | GW (50°) | SW (54°) | LW (58°) |
 |---|---|---|---|---|
 | 7:30 | 60yd | 50yd | 40yd | 30yd |
 | 9:00 | 85yd | 70yd | 55yd | 45yd |
 | 10:30 | 100yd | 85yd | 70yd | 55yd |
 | Full | 120yd | 100yd | 85yd | 65yd |
 
-> **반드시 자기 거리를 측정할 것.** 위 숫자는 예시일 뿐.
+> **You must measure your own distances.** The numbers above are examples only.
 
-### 거리 매트릭스 만드는 법
-1. 레인지 또는 론치모니터에서 각 클럽 × 각 클럭 위치로 10발씩
-2. 최상위/최하위 각 2발 제외 → 6발 평균 = 기준 거리
-3. 카드에 적어서 캐디백에 부착
+### How to Build Your Distance Matrix
+1. Hit 10 shots per club × clock position at the range or on a launch monitor
+2. Remove the top 2 and bottom 2 → average the remaining 6 = baseline distance
+3. Write it on a card and attach it to your bag
 
-## 칩 vs 피치 선택
+## Chip vs. Pitch Selection
 
-### 칩 (Chip)
-- **정의**: 낮게 떠서 빨리 착지, 많이 굴러감
-- **사용**: 그린 에지 근처, 장애물 없음
-- **클럽**: 7~9번 아이언 또는 PW
-- **비율**: 공중 1 : 굴림 3~5
-- **기본 원칙**: "퍼팅처럼 칠 수 있으면 칩, 칩으로 안 되면 피치"
+### Chip
+- **Definition**: Low trajectory, lands early, rolls out significantly
+- **Use**: Near the green edge, no obstacles
+- **Club**: 7–9 iron or PW
+- **Ratio**: Air 1 : Roll 3–5
+- **Core principle**: "If you can putt it, putt. If you can chip it, chip. Only pitch when you must."
 
-### 피치 (Pitch)
-- **정의**: 높게 띄워서 빨리 멈춤
-- **사용**: 벙커 넘기기, 내리막, 핀까지 거리 짧음
-- **클럽**: SW, LW
-- **비율**: 공중 3 : 굴림 1~2
+### Pitch
+- **Definition**: High trajectory, stops quickly
+- **Use**: Clearing bunkers, downhill lies, short distance to the pin
+- **Club**: SW, LW
+- **Ratio**: Air 3 : Roll 1–2
 
-### 선택 규칙 (간단)
+### Selection Rules (Simplified)
 ```
-퍼팅 가능? → 퍼터 (가장 안전)
+Can you putt? → Putter (safest)
   ↓ NO
-칩 가능? → 칩 (두번째 안전)
+Can you chip? → Chip (second safest)
   ↓ NO
-피치 필요? → 피치 (세번째)
+Need to pitch? → Pitch (third)
   ↓ NO
-로브 필요? → 로브 (가장 위험, 최후 수단)
+Need a lob? → Lob (riskiest, last resort)
 ```
 
-## 벙커 플레이
+## Bunker Play
 
-### 그린사이드 벙커 기본
-- **클럽**: SW (54~56°) 또는 LW (58~60°)
-- **원리**: 공을 직접 치지 않음. 공 뒤 2~3인치 모래를 친다
-- **스탠스**: 오픈 (목표 왼쪽), 볼 위치 약간 왼쪽
-- **페이스**: 오픈 (바운스 활용)
-- **스윙**: 가속하면서 통과 (감속 = 실패)
-- **핵심**: "모래를 쓸어내는" 느낌. 공이 모래 쿠션 위에 올라탐
+### Greenside Bunker Fundamentals
+- **Club**: SW (54–56°) or LW (58–60°)
+- **Principle**: Do not strike the ball directly. Hit the sand 2–3 inches behind the ball
+- **Stance**: Open (aimed left of target), ball position slightly forward
+- **Clubface**: Open (utilize the bounce)
+- **Swing**: Accelerate through (deceleration = failure)
+- **Key feel**: "Sweeping the sand out." The ball rides on a cushion of sand
 
-### 벙커 탈출 성공률 목표
-| 핸디캡 | 1회 탈출 목표 |
+### Bunker Escape Success Rate Targets
+| Handicap | First-Attempt Escape Target |
 |---|---|
-| 0~10 | 90%+ |
-| 10~20 | 75%+ |
-| 20~30 | 60%+ |
-| 30+ | 50%+ (탈출이 우선!) |
+| 0–10 | 90%+ |
+| 10–20 | 75%+ |
+| 20–30 | 60%+ |
+| 30+ | 50%+ (getting out is the priority!) |
 
-## 퍼팅
+## Putting
 
-### 속도 > 라인 (Pelz의 핵심 발견)
-- **퍼트 미스의 원인**: 83%가 거리 미스, 17%가 방향 미스
-- 따라서 라인보다 **속도 제어**가 훨씬 중요
-- 목표: 미스해도 **홀 지나 1~1.5피트** (17인치 법칙)
+### Speed > Line (Pelz's Key Finding)
+- **Cause of putting misses**: 83% distance error, 17% direction error
+- Therefore, **speed control** matters far more than line
+- Goal: Even on a miss, roll **1–1.5 feet past the hole** (the 17-inch rule)
 
-### 17인치 법칙
-- 홀을 지나는 속도로 쳐야 들어간다 (짧으면 절대 안 들어감)
-- 이상적: 홀을 17인치(약 43cm) 지나는 속도
-- 너무 강하면: 돌아오는 퍼트가 어려워짐
+### The 17-Inch Rule
+- You must putt with enough pace to pass the hole (a short putt never goes in)
+- Ideal: Speed that carries the ball 17 inches (~43 cm) past the hole
+- Too firm: The comeback putt becomes difficult
 
-### 거리별 퍼팅 전략
-| 거리 | 전략 | 목표 |
+### Putting Strategy by Distance
+| Distance | Strategy | Target |
 |---|---|---|
-| ~3피트 | 자신 있게 넣기 | 90%+ 성공 |
-| 3~6피트 | 루틴 유지, 속도 집중 | 50~70% 성공 |
-| 6~15피트 | 3퍼트 방지가 목표 | 2퍼트로 마무리 |
-| 15피트+ | 거리감에만 집중 | 3피트 원 안에 |
-| 30피트+ | "래그 퍼트" — 근처에만 | 5피트 원 안에 |
+| ~3 feet | Putt confidently to make it | 90%+ make rate |
+| 3–6 feet | Maintain routine, focus on speed | 50–70% make rate |
+| 6–15 feet | Avoid three-putting | Finish in two putts |
+| 15+ feet | Focus solely on distance control | Inside a 3-foot circle |
+| 30+ feet | "Lag putt" — get it close | Inside a 5-foot circle |
 
-### 그린 리딩 기본
-1. 저지대에서 전체 경사 파악 (그린 뒤에서)
-2. 공 옆에서 좌우 경사 확인
-3. 홀 근처 경사가 가장 중요 (공이 느려질 때 많이 휨)
-4. **오르막 > 내리막**: 오르막 퍼트를 남기도록 어프로치
+### Green Reading Fundamentals
+1. Assess overall slope from the low side (behind the green)
+2. Check lateral slope from beside the ball
+3. Slope near the hole matters most (the ball curves more as it slows)
+4. **Uphill > Downhill**: Approach to leave uphill putts whenever possible
 
-### 연습 드릴
+### Practice Drills
 
-#### 3피트 원 드릴
-- 홀 주변 4방향 × 3피트에 티 꽂기
-- 연속 성공 횟수 기록
-- 목표: 10/10 연속
+#### 3-Foot Circle Drill
+- Place tees at 4 compass points, each 3 feet from the hole
+- Track consecutive makes
+- Goal: 10/10 consecutive
 
-#### 래그 퍼팅 드릴
-- 30/40/50피트에서 3피트 원 안에 넣기
-- 속도 감각 훈련이 목적
+#### Lag Putting Drill
+- Putt from 30/40/50 feet into a 3-foot circle
+- Purpose: Speed-feel calibration
 
-#### 게이트 드릴
-- 퍼터 헤드 폭보다 약간 넓은 게이트(티 2개)
-- 3피트 거리에서 게이트 통과 연습
-- 스트로크 정확도 향상
+#### Gate Drill
+- Set two tees slightly wider than the putter head
+- Practice stroking through the gate from 3 feet
+- Improves stroke accuracy
 
-## 핸디캡별 업앤다운 목표
+## Up-and-Down Targets by Handicap
 
-| 핸디캡 | 현재 평균 | 목표 | 연습 시간 배분 |
+| Handicap | Current Average | Target | Practice Time Allocation |
 |---|---|---|---|
-| 30+ | ~8% | 15% | 칩 위주, 벙커 탈출 |
-| 20~30 | ~15% | 25% | 칩+퍼팅, 거리 제어 |
-| 10~20 | ~25% | 35% | 클럭 시스템, 다양한 라이 |
-| 0~10 | ~40% | 50%+ | 로브, 정밀 거리 |
+| 30+ | ~8% | 15% | Chipping focus, bunker escapes |
+| 20–30 | ~15% | 25% | Chipping + putting, distance control |
+| 10–20 | ~25% | 35% | Clock system, varied lies |
+| 0–10 | ~40% | 50%+ | Lob shots, precision distance |
 
-## 한국 골프 현실
+## Practical Considerations for Korean Golfers
 
-- **레인지에서 웨지 연습**: 50~100야드 타겟에 맞추기 연습 → 클럭 시스템 실전
-- **스크린 골프**: 어프로치·퍼팅 감각은 실제와 다름 주의
-- **숏게임 전용 시설**: 서울 근교에 증가 추세 (파주, 김포 등). 퍼팅+칩 연습장
-- **집에서 퍼팅 매트**: 3피트 연습만으로도 라운드당 2~3타 감소 가능
-- **캐디 그린 리딩 의존**: 자기 판단력도 키워야 함 (특히 속도 감각)
+- **Wedge practice at the range**: Aim at 50–100 yard targets → apply the clock system in practice
+- **Screen golf (시뮬레이션 골프)**: Be aware that approach and putting feel differ from real conditions
+- **Dedicated short game facilities**: Increasing in the Seoul metropolitan area (Paju, Gimpo, etc.) — putting + chipping practice grounds
+- **Home putting mat**: Practicing 3-foot putts alone can reduce 2–3 strokes per round
+- **Reliance on caddie green reads (캐디 그린 리딩)**: Develop your own judgment as well (especially speed feel)
 
-## 안티패턴
+## Anti-Patterns
 
-- **숏게임 연습 안 하기** — 레인지에서 드라이버만 → 가장 흔한 실수
-- **하나의 웨지로 모든 것 해결** — 4개 클럭 × 3~4개 웨지 = 12~16가지 거리
-- **벙커에서 감속** — "살살 치면 나올 거야" → 공이 벙커에 남음
-- **항상 홀을 노리는 퍼팅** — 15피트+에서는 3퍼트 방지가 우선
-- **풀스윙 웨지만 연습** — 실전에서는 풀스윙보다 7:30~10:30이 훨씬 많음
+- **Skipping short game practice** — Hitting only driver at the range → the most common mistake
+- **Using one wedge for everything** — 4 clocks × 3–4 wedges = 12–16 distance options
+- **Decelerating in bunkers** — "I'll just ease it out" → the ball stays in the bunker
+- **Always aiming at the hole on putts** — At 15+ feet, three-putt prevention takes priority
+- **Practicing only full-swing wedges** — In actual play, 7:30–10:30 swings occur far more often
 
-## 한계
+## Limitations
 
-1. 감각(터치)은 반복 연습으로만 향상 — 이론만으로는 한계
-2. 라이(잔디 상태, 경사)가 매번 다름 — 매뉴얼화 어려움
-3. 퍼팅 그린 속도는 코스마다 다름 — 매 라운드 적응 필요
+1. Touch and feel improve only through repetition — theory alone is insufficient
+2. Lies (grass condition, slope) vary every time — difficult to systematize completely
+3. Green speed differs by course — adaptation is required every round
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `practice-design` — 숏게임 연습 시간 구조화
-- `strokes-gained` — SG:ATG + SG:Putting 데이터로 약점 확인
-- `course-management` — 미스해도 안전한 방향 → 업앤다운 난이도 낮춤
-- `scoring-strategy` — 핸디캡별 숏게임 목표 설정
+- `practice-design` — Structure your short game practice sessions
+- `strokes-gained` — Identify weaknesses via SG:ATG + SG:Putting data
+- `course-management` — Miss to the safe side → reduce up-and-down difficulty
+- `scoring-strategy` — Set short game targets by handicap level
 
-## 참고 문헌
+## References
 
 - Pelz, D. *Dave Pelz's Short Game Bible* (1999)
 - Pelz, D. *Dave Pelz's Putting Bible* (2000)

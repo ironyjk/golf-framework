@@ -1,224 +1,224 @@
 ---
 name: physical-conditioning
 version: "0.1.0"
-description: "골프 체력 관리 — TPI(Titleist Performance Institute) 기반 모빌리티, 회전력·코어 운동, 라운드 전 워밍업, 부상 예방, 연령별 조정."
+description: "Golf Physical Conditioning — TPI (Titleist Performance Institute)-based mobility, rotational power & core exercises, pre-round warm-up, injury prevention, and age-specific adjustments."
 ---
 
-# 골프 체력 관리 (Physical Conditioning)
+# Golf Physical Conditioning
 
-## 한줄 요약
+## One-Line Summary
 
-**골프 스윙은 1.2초 동안 100mph+로 클럽을 회전시키는 운동이다.** 흉추 회전, 고관절 모빌리티, 코어 안정성이 비거리·일관성·부상 예방의 기초. 스윙 교정 전에 몸이 먼저다.
+**A golf swing rotates the club at 100+ mph in 1.2 seconds.** Thoracic rotation, hip mobility, and core stability form the foundation of distance, consistency, and injury prevention. Fix the body before fixing the swing.
 
-## 근거 강도
+## Evidence Strength
 
-- TPI 신체 평가와 스윙 결함 상관: **중간** (TPI 자체 연구, 독립 검증 제한적)
-- 골프 특화 근력/모빌리티 훈련의 효과: **강함** (클럽 헤드 스피드, 드라이빙 거리 향상 — Doan 2006, Fletcher 2004)
-- 라운드 전 워밍업의 효과: **강함** (부상 감소 + 첫 홀 퍼포먼스 — Fradkin 2004)
-- 스트레칭만으로 비거리 증가: **약함** (모빌리티는 필요조건이지만 충분조건 아님)
+- TPI physical screen correlation with swing faults: **Moderate** (TPI internal research; limited independent validation)
+- Golf-specific strength/mobility training effects: **Strong** (clubhead speed and driving distance improvements — Doan 2006, Fletcher 2004)
+- Pre-round warm-up effects: **Strong** (injury reduction + first-hole performance — Fradkin 2004)
+- Stretching alone for distance gains: **Weak** (mobility is necessary but not sufficient)
 
-## 이론·근거 출처
+## Theoretical Basis & Sources
 
 - **TPI (Titleist Performance Institute)** — Body-Swing Connection
-- **Greg Rose & Dave Phillips** — TPI 창립자
-- **Stuart McGill** — 척추 안정성 연구
+- **Greg Rose & Dave Phillips** — TPI co-founders
+- **Stuart McGill** — Spine stability research
 - **Gray Cook** — FMS (Functional Movement Screen)
 
-## 골프에 필요한 신체 능력 (우선순위)
+## Physical Abilities Required for Golf (Priority Order)
 
-| 순위 | 능력 | 영향 | 측정 |
+| Rank | Ability | Impact | Benchmark |
 |---|---|---|---|
-| 1 | **흉추 회전** | 백스윙 폭, 파워 | 좌우 45°+ |
-| 2 | **고관절 모빌리티** | 체중 이동, 안정성 | 내회전/외회전 40°+ |
-| 3 | **코어 안정성** | 파워 전달, 허리 보호 | 플랭크 60초+ |
-| 4 | **둔근 활성화** | 다운스윙 파워, 안정성 | — |
-| 5 | **어깨 모빌리티** | 백스윙 상단, 팔로스루 | 180° 오버헤드 |
-| 6 | **회전 파워** | 클럽 헤드 스피드 | 메디신볼 던지기 |
+| 1 | **Thoracic Rotation** | Backswing range, power | 45°+ each side |
+| 2 | **Hip Mobility** | Weight transfer, stability | Internal/external rotation 40°+ |
+| 3 | **Core Stability** | Power transfer, lower back protection | Plank 60s+ |
+| 4 | **Glute Activation** | Downswing power, stability | — |
+| 5 | **Shoulder Mobility** | Top of backswing, follow-through | 180° overhead |
+| 6 | **Rotational Power** | Clubhead speed | Medicine ball throw |
 
-## 자가 평가 (5분)
+## Self-Assessment (5 Minutes)
 
-### 1. 흉추 회전 테스트
-- 의자에 앉아 클럽을 가슴에 가로로
-- 하체 고정하고 좌우 회전
-- **합격**: 양쪽 45° 이상 회전
-- **불합격**: 백스윙 제한, 허리 보상 → 요통 위험
+### 1. Thoracic Rotation Test
+- Sit in a chair, hold a club horizontally across the chest
+- Fix the lower body and rotate left and right
+- **Pass**: 45°+ rotation each side
+- **Fail**: Backswing restriction, lumbar compensation → lower back pain risk
 
-### 2. 고관절 내회전 테스트
-- 의자 끝에 앉아 무릎 90°
-- 발을 바깥으로 돌리기 (= 대퇴골 내회전)
-- **합격**: 40° 이상
-- **불합격**: 다운스윙에서 슬라이드 → 슬라이스/허리통증
+### 2. Hip Internal Rotation Test
+- Sit at the edge of a chair, knees at 90°
+- Rotate the foot outward (= femoral internal rotation)
+- **Pass**: 40°+
+- **Fail**: Lateral slide during the downswing → slice/lower back pain
 
-### 3. 토 터치 테스트
-- 서서 무릎 펴고 발끝 터치
-- **합격**: 손끝이 발끝에 닿음
-- **불합격**: 햄스트링 타이트 → 어드레스 자세 제한
+### 3. Toe Touch Test
+- Stand with knees straight, reach for the toes
+- **Pass**: Fingertips reach the toes
+- **Fail**: Tight hamstrings → limited address posture
 
-### 4. 오버헤드 딥 스쿼트
-- 클럽을 머리 위로 들고 스쿼트
-- **합격**: 허벅지 수평, 클럽 발 위에 유지
-- **불합격**: 발목/고관절/흉추 중 제한 부위 파악
+### 4. Overhead Deep Squat
+- Hold a club overhead and perform a squat
+- **Pass**: Thighs reach parallel, club stays over feet
+- **Fail**: Identify the limiting area — ankle, hip, or thoracic spine
 
-## 골프 체력 루틴 (주 2~3회, 30분)
+## Golf Fitness Routine (2–3x/Week, 30 Minutes)
 
-### 모빌리티 (10분) — 매일 해도 좋음
+### Mobility (10 Minutes) — Can Be Done Daily
 
-1. **흉추 회전 (오픈 북 스트레칭)**
-   - 옆으로 누워 무릎 90°, 위쪽 팔을 반대편으로 열기
-   - 10회 × 양쪽
+1. **Thoracic Rotation (Open Book Stretch)**
+   - Lie on your side, knees at 90°, open the top arm to the opposite side
+   - 10 reps × each side
 
-2. **고관절 90/90**
-   - 바닥에 앉아 양 무릎 90°
-   - 앞쪽 다리/뒤쪽 다리 교대로 바닥에 닿기
-   - 10회 × 양방향
+2. **Hip 90/90**
+   - Sit on the floor with both knees at 90°
+   - Alternate touching the front leg/back leg to the floor
+   - 10 reps × each direction
 
-3. **월드 그레이티스트 스트레칭**
-   - 런지 → 같은 쪽 팔꿈치 바닥 → 같은 쪽 팔 하늘로
-   - 5회 × 양쪽
+3. **World's Greatest Stretch**
+   - Lunge → same-side elbow to the floor → same-side arm to the sky
+   - 5 reps × each side
 
-4. **캣카우 (Cat-Cow)**
-   - 네발 기기 자세에서 등 둥글게 → 등 오목하게
-   - 10회
+4. **Cat-Cow**
+   - On all fours, round the back → arch the back
+   - 10 reps
 
-5. **힙 서클**
-   - 네발 기기에서 무릎으로 원 그리기
-   - 10회 × 양방향 × 양쪽
+5. **Hip Circles**
+   - On all fours, draw circles with the knee
+   - 10 reps × each direction × each side
 
-### 근력 (15분)
+### Strength (15 Minutes)
 
-6. **안티 로테이션 프레스 (팔로프 프레스)**
-   - 밴드/케이블 잡고 가슴 앞으로 밀기 (회전 저항)
-   - 10회 × 3세트 × 양쪽
+6. **Anti-Rotation Press (Pallof Press)**
+   - Hold a band/cable and press out from the chest (resist rotation)
+   - 10 reps × 3 sets × each side
 
-7. **메디신볼 회전 던지기**
-   - 벽을 향해 골프 스윙처럼 회전하며 던지기
-   - 8회 × 3세트 × 양방향
+7. **Medicine Ball Rotational Throw**
+   - Face a wall and throw with a golf-swing rotation
+   - 8 reps × 3 sets × each direction
 
-8. **싱글레그 루마니안 데드리프트**
-   - 한 발로 서서 힌지 → 둔근·햄스트링
-   - 10회 × 3세트 × 양쪽
+8. **Single-Leg Romanian Deadlift**
+   - Stand on one leg and hinge → targets glutes and hamstrings
+   - 10 reps × 3 sets × each side
 
-9. **사이드 플랭크 (힙 드롭)**
-   - 사이드 플랭크에서 힙 올렸다 내렸다
-   - 10회 × 3세트 × 양쪽
+9. **Side Plank (Hip Drop)**
+   - From a side plank position, raise and lower the hip
+   - 10 reps × 3 sets × each side
 
-10. **밴드 풀 어파트**
-    - 밴드를 양손으로 잡고 옆으로 벌리기 (견갑골 안정)
-    - 15회 × 3세트
+10. **Band Pull-Apart**
+    - Hold a band with both hands and pull apart laterally (scapular stability)
+    - 15 reps × 3 sets
 
-### 파워 (5분) — 주 1~2회
+### Power (5 Minutes) — 1–2x/Week
 
-11. **메디신볼 슬램**
-    - 머리 위에서 바닥으로 힘껏 내리치기
-    - 8회 × 3세트
+11. **Medicine Ball Slam**
+    - Slam the ball from overhead to the floor with maximum force
+    - 8 reps × 3 sets
 
-12. **로테이셔널 점프**
-    - 90° 회전 점프 (양방향)
-    - 6회 × 3세트
+12. **Rotational Jump**
+    - 90° rotation jump (both directions)
+    - 6 reps × 3 sets
 
-## 라운드 전 워밍업 (10분)
+## Pre-Round Warm-Up (10 Minutes)
 
-**연구에 따르면 워밍업 없이 첫 티샷 = 부상 위험 + 첫 3홀 퍼포먼스 저하**
+**Research shows that skipping warm-up before the first tee shot = injury risk + degraded performance over the first 3 holes**
 
 ```
-1. 걷기/가벼운 조깅 (2분)
-2. 암 서클 + 어깨 돌리기 (1분)
-3. 고관절 회전 (1min) — 레그 스윙 앞뒤/좌우
-4. 흉추 회전 (1min) — 클럽 어깨에 걸치고 좌우
-5. 점진적 스윙 (3min):
-   - 웨지 하프스윙 5발
-   - 미들 아이언 5발
-   - 드라이버 3발 (80%→90%→100%)
-6. 퍼팅 그린 (2min) — 긴 퍼트 3발, 짧은 퍼트 5발 (그린 속도 파악)
+1. Walking / light jog (2 min)
+2. Arm circles + shoulder rotations (1 min)
+3. Hip rotations (1 min) — leg swings front-to-back / side-to-side
+4. Thoracic rotation (1 min) — club across shoulders, rotate left and right
+5. Progressive swings (3 min):
+   - Wedge half-swings × 5
+   - Mid-iron × 5
+   - Driver × 3 (80% → 90% → 100%)
+6. Putting green (2 min) — 3 long putts, 5 short putts (read the green speed)
 ```
 
-## 골프 부상 예방
+## Golf Injury Prevention
 
-### 흔한 부상
+### Common Injuries
 
-| 부위 | 빈도 | 원인 | 예방 |
+| Area | Frequency | Cause | Prevention |
 |---|---|---|---|
-| **허리** | #1 (25~35%) | 회전 과부하, 코어 약함 | 코어 강화, 흉추 모빌리티 |
-| **팔꿈치** | #2 (골프 엘보) | 반복적 충격, 그립 과도 | 전완 스트레칭, 그립 압력 줄이기 |
-| **손목** | #3 | 뒤땅, 과도한 힌지 | 손목 강화, 임팩트 기술 |
-| **어깨** | #4 | 오버스윙, 모빌리티 부족 | 회전근개 강화, 스윙 폭 조절 |
-| **무릎** | #5 | 회전 시 고정, 경사 보행 | 하체 강화, 골프화 선택 |
+| **Lower Back** | #1 (25–35%) | Rotational overload, weak core | Core strengthening, thoracic mobility |
+| **Elbow** | #2 (Golfer's Elbow) | Repetitive impact, excessive grip | Forearm stretching, reduce grip pressure |
+| **Wrist** | #3 | Fat shots, excessive hinge | Wrist strengthening, impact technique |
+| **Shoulder** | #4 | Overswing, insufficient mobility | Rotator cuff strengthening, manage swing arc |
+| **Knee** | #5 | Fixed knee during rotation, sloped terrain | Lower body strengthening, proper golf shoe selection |
 
-### 허리 보호 원칙
-- **스윙 중 요추 회전 최소화** — 흉추에서 회전, 요추는 안정
-- McGill의 Big 3: 컬업, 사이드 플랭크, 버드독
-- 라운드 중 카트 이용 시에도 걸어서 이동 (뻣뻣해지지 않도록)
-- 캐디백/카트백에서 가방 들 때: 무릎 굽혀서
+### Lower Back Protection Principles
+- **Minimize lumbar rotation during the swing** — rotate from the thoracic spine; the lumbar spine stays stable
+- McGill's Big 3: Curl-up, Side Plank, Bird Dog
+- Even when using a cart, walk between shots (prevent stiffness)
+- When lifting a bag from the cart: bend the knees
 
-## 연령별 조정
+## Age-Specific Adjustments
 
-### 40대
-- 모빌리티 루틴 중요성 증가 (흉추 회전 감소 시작)
-- 근력 유지 가능. 파워 트레이닝 계속
-- 워밍업 시간 10분 → 15분으로 확대
+### 40s
+- Mobility routine becomes increasingly important (thoracic rotation begins to decline)
+- Strength maintenance is still achievable; continue power training
+- Extend warm-up time from 10 → 15 minutes
 
-### 50대
-- **유연성 감소 가속** — 매일 모빌리티 루틴 필수
-- 무거운 중량보다 **중량 밴드/가벼운 덤벨 + 높은 반복**
-- 비거리 감소 자연스러움 — 정확도와 숏게임으로 보상
-- 워밍업 15~20분
+### 50s
+- **Flexibility loss accelerates** — daily mobility routine is essential
+- Favor **resistance bands / light dumbbells + higher reps** over heavy weights
+- Distance loss is natural — compensate with accuracy and short game
+- Warm-up: 15–20 minutes
 
-### 60대+
-- **부상 예방이 최우선** — 무리한 스윙 금지
-- 균형 훈련 추가 (경사에서의 안정성)
-- 관절 부하 줄이기: 그래파이트 샤프트, 가벼운 클럽
-- 걷기 라운드(카트 없이)가 최고의 운동
-- 워밍업 20분
+### 60s+
+- **Injury prevention is the top priority** — avoid overexertion in the swing
+- Add balance training (stability on slopes)
+- Reduce joint load: graphite shafts, lighter clubs
+- Walking rounds (no cart) are the best form of exercise
+- Warm-up: 20 minutes
 
-## 비거리 늘리기 (체력 관점)
+## Increasing Distance (Physical Perspective)
 
-**비거리 = 클럽 헤드 스피드 × 스매쉬 팩터 × 발사 조건**
+**Distance = Clubhead Speed × Smash Factor × Launch Conditions**
 
-체력으로 영향 줄 수 있는 것:
-1. **회전력 (Ground up)**: 둔근 → 코어 → 어깨 순서로 파워 전달
-2. **X-Factor 증가**: 엉덩이 회전과 어깨 회전의 차이 → 흉추 모빌리티
-3. **근력**: 메디신볼 던지기와 클럽 헤드 스피드 상관 (r=0.7+)
-4. **속도 훈련**: 가벼운 클럽 빠르게 스윙 (SuperSpeed, Rypstick)
+What physical conditioning can influence:
+1. **Rotational Force (Ground Up)**: Power transfers sequentially — glutes → core → shoulders
+2. **X-Factor Increase**: The differential between hip rotation and shoulder rotation → thoracic mobility
+3. **Strength**: Medicine ball throw distance correlates with clubhead speed (r = 0.7+)
+4. **Speed Training**: Swing a lightweight club at maximum speed (SuperSpeed, Rypstick)
 
-### 스피드 트레이닝 (3회/주, 10분)
-- 가벼운 연습 클럽(또는 거꾸로 잡기)으로 전력 스윙 5회
-- 정상 클럽 전력 스윙 5회
-- 무거운 클럽(또는 도넛 추가) 전력 스윙 5회
-- 효과: 4~8주에 3~5mph 증가 가능 (연구 근거 있음)
+### Speed Training Protocol (3x/Week, 10 Minutes)
+- 5 max-effort swings with a lightweight training club (or club held inverted)
+- 5 max-effort swings with a standard club
+- 5 max-effort swings with a heavy club (or donut weight attached)
+- Expected results: 3–5 mph gain in 4–8 weeks (evidence-based)
 
-## 한국 골프 현실
+## Golf in Korea (한국 골프 현실)
 
-- **18홀 워킹**: 한국은 카트가 일반적이지만, 워킹 라운드는 최고의 운동 (10,000보+)
-- **새벽 티오프**: 5~6시 시작 시 워밍업 생략 유혹 → 부상 위험 최대
-- **겨울 스크린 골프**: 실내지만 갑자기 풀스윙 → 워밍업 필수
-- **접대 골프 체력**: 18홀 + 식사 + 음주 → 다음 날 회복 고려
-- **PT/필라테스**: 한국에서 접근성 좋음. 골프 특화 PT 증가 추세
+- **18-Hole Walking**: Carts are standard in Korea, but walking rounds are the best exercise (10,000+ steps)
+- **Early Morning Tee Times**: 5–6 AM starts tempt golfers to skip warm-up → peak injury risk
+- **Winter Screen Golf (스크린 골프)**: Indoor, but sudden full swings → warm-up is essential
+- **Business Golf (접대 골프)**: 18 holes + dinner + alcohol → factor in next-day recovery
+- **Personal Training / Pilates**: Highly accessible in Korea; golf-specific PT is a growing trend
 
-## 안티패턴
+## Anti-Patterns
 
-- **워밍업 없이 첫 티샷** — 가장 흔한 부상 원인
-- **몸이 안 되는데 프로 스윙 따라하기** — X-Factor 만들려다 허리 부상
-- **스트레칭만 하기** — 유연성만으로는 부족. 근력 + 모빌리티 밸런스
-- **비거리 = 힘으로** — 근력보다 회전 속도와 타이밍이 중요
-- **통증 무시하고 계속 치기** — 특히 허리·팔꿈치, 1주+ 지속 시 병원
+- **First tee shot without warm-up** — the most common cause of golf injuries
+- **Copying a pro's swing without the body for it** — attempting to create X-Factor leads to back injuries
+- **Stretching only** — flexibility alone is insufficient; strength + mobility must be balanced
+- **Distance = brute force** — rotational speed and timing matter more than raw strength
+- **Playing through pain** — especially lower back and elbow; if pain persists 1+ week, see a doctor
 
-## 한계
+## Limitations
 
-1. 텍스트로 운동 폼 교정은 한계 — 영상이나 트레이너 권장
-2. 체력 개선이 스코어로 직결되지 않을 수 있음 — 기술+전략도 함께
-3. TPI 자가 평가는 참고용 — 전문 평가(TPI 인증 프로)가 더 정확
-4. 기존 부상 이력에 따라 운동 수정 필요 → 물리치료사 상담
+1. Correcting exercise form via text has inherent limitations — video or a trainer is recommended
+2. Physical improvement may not directly translate to lower scores — technique + strategy matter too
+3. TPI self-assessment is for reference only — a professional evaluation (TPI-certified pro) is more accurate
+4. Exercise modifications may be needed based on injury history → consult a physical therapist
 
-## 함께 쓰면 좋은 프레임워크
+## Complementary Frameworks
 
-- `club-fitting` — 신체에 맞는 장비 선택
-- `scoring-strategy` — 비거리 감소 시 전략 조정
-- `strength-basics` (`/fit`) — 일반 근력 프로그램
-- `progressive-overload` (`/fit`) — 점진적 부하 원칙
+- `club-fitting` — Equipment selection matched to the body
+- `scoring-strategy` — Strategy adjustments when distance decreases
+- `strength-basics` (`/fit`) — General strength programming
+- `progressive-overload` (`/fit`) — Progressive loading principles
 
-## 참고 문헌
+## References
 
-- TPI (mytpi.com) — Body-Swing Connection 연구
+- TPI (mytpi.com) — Body-Swing Connection research
 - Doan, B.K. et al. (2006). "The effects of physical conditioning on golf performance." *JSCR*
 - Fletcher, I.M. & Hartwell, M. (2004). "Effect of an 8-week combined weights and plyometrics training program on golf drive performance."
 - Fradkin, A.J. et al. (2004). "Effects of warming-up on physical performance." *JSS*

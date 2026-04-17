@@ -1,169 +1,169 @@
 ---
 name: strokes-gained
 version: "0.1.0"
-description: "Strokes Gained 분석 — Mark Broadie의 데이터 기반 골프 분석. SG Driving/Approach/Around-the-Green/Putting으로 약점 진단. 핸디캡별 벤치마크."
+description: "Strokes Gained Analysis — Mark Broadie's data-driven golf analytics. Diagnose weaknesses via SG Driving/Approach/Around-the-Green/Putting. Handicap-level benchmarks."
 ---
 
-# Strokes Gained 분석 (Mark Broadie)
+# Strokes Gained Analysis (Mark Broadie)
 
-## 한줄 요약
+## One-Line Summary
 
-**모든 샷의 가치를 "평균 대비 절약한 타수"로 정량화한다.** 감이 아닌 데이터로 "어디서 타수를 잃는가"를 진단하고, 연습 시간 배분의 근거를 제공한다.
+**Quantify every shot's value as "strokes saved versus the average."** Diagnose "where you lose strokes" with data instead of intuition, and provide an evidence base for allocating practice time.
 
-## 근거 강도
+## Strength of Evidence
 
-- Strokes Gained 개념: **강함** (PGA Tour 공식 통계, 학술 논문 기반)
-- 아마추어 적용: **강함** (Shot Scope, Arccos 등 데이터 축적)
-- 핸디캡별 벤치마크: **중간** (대규모 데이터 있지만 코스·환경 차이)
+- Strokes Gained concept: **Strong** (official PGA Tour statistic, peer-reviewed research)
+- Amateur application: **Strong** (large datasets from Shot Scope, Arccos, etc.)
+- Handicap-level benchmarks: **Moderate** (large-scale data available, but course and conditions vary)
 
-## 이론·근거 출처
+## Theory & Source References
 
-- **Mark Broadie** — *Every Shot Counts* (2014), Columbia Business School 교수
-- **PGA Tour** — 2004년부터 ShotLink 시스템으로 데이터 수집
-- **Shot Scope** — 아마추어 라운드 데이터 1억+ 샷
+- **Mark Broadie** — *Every Shot Counts* (2014), Professor at Columbia Business School
+- **PGA Tour** — collecting data via the ShotLink system since 2004
+- **Shot Scope** — 100M+ shots of amateur round data
 
-## Strokes Gained 개념
+## Strokes Gained Concept
 
-### 기본 원리
-어떤 위치에서의 **기대 타수**를 기준으로, 실제 결과가 기대보다 나으면 (+), 나쁘면 (-).
+### Fundamental Principle
+Using the **expected strokes** from a given position as the baseline, a result better than expected is (+) and worse is (-).
 
-**예시**: 150야드 페어웨이에서 기대 타수 = 2.95타
-- 그린에 올림 (1퍼트 거리) → 기대 1.0타 → SG = 2.95 - (1 + 1.0) = **+0.95** (좋음)
-- 그린 사이드 벙커 → 기대 2.4타 → SG = 2.95 - (1 + 2.4) = **-0.45** (나쁨)
+**Example**: Expected strokes from 150 yards in the fairway = 2.95
+- Hit the green (one-putt distance) → expected 1.0 strokes → SG = 2.95 - (1 + 1.0) = **+0.95** (good)
+- Greenside bunker → expected 2.4 strokes → SG = 2.95 - (1 + 2.4) = **-0.45** (bad)
 
-### 4가지 카테고리
+### Four Categories
 
-| 카테고리 | 범위 | 포함 샷 |
+| Category | Scope | Shots Included |
 |---|---|---|
-| **SG: Off-the-Tee** | 티샷 | 드라이버, 페어웨이우드/하이브리드 (Par 4, 5) |
-| **SG: Approach** | 100야드+ 그린 공략 | 아이언, 하이브리드 (세컨드/서드 샷) |
-| **SG: Around-the-Green** | 그린 에지 50야드 이내 | 칩, 피치, 벙커 (퍼팅 제외) |
-| **SG: Putting** | 그린 위 | 모든 퍼팅 |
+| **SG: Off-the-Tee** | Tee shots | Driver, fairway wood/hybrid (Par 4 & 5) |
+| **SG: Approach** | Green attacks from 100+ yards | Irons, hybrids (second/third shots) |
+| **SG: Around-the-Green** | Within 50 yards of the green edge | Chips, pitches, bunker shots (excluding putts) |
+| **SG: Putting** | On the green | All putts |
 
-### PGA Tour 평균 (참고)
-| 카테고리 | 투어 평균 | 상위 10% |
+### PGA Tour Averages (Reference)
+| Category | Tour Average | Top 10% |
 |---|---|---|
 | SG: OTT | 0.00 | +0.70 |
 | SG: APP | 0.00 | +0.80 |
 | SG: ATG | 0.00 | +0.40 |
 | SG: PUTT | 0.00 | +0.80 |
 
-> 투어 평균이 0인 이유: 기준 자체가 투어 평균이므로.
+> The tour average is 0 because it is the baseline by definition.
 
-## 아마추어 핸디캡별 타수 손실 분포
+## Amateur Stroke-Loss Distribution by Handicap
 
-### 스크래치(0) vs 보기 골퍼(18) 차이 = 18타/라운드
+### Scratch (0) vs. Bogey Golfer (18) Difference = 18 strokes/round
 
-| 카테고리 | 타수 차이 | 비율 |
+| Category | Stroke Difference | Share |
 |---|---|---|
-| Off-the-Tee | ~3타 | 17% |
-| **Approach** | **~7타** | **39%** |
-| Around-the-Green | ~4타 | 22% |
-| Putting | ~4타 | 22% |
+| Off-the-Tee | ~3 strokes | 17% |
+| **Approach** | **~7 strokes** | **39%** |
+| Around-the-Green | ~4 strokes | 22% |
+| Putting | ~4 strokes | 22% |
 
-**핵심 발견**: Broadie의 연구에서 **어프로치 샷이 가장 큰 차이**를 만든다. 그러나 대부분의 아마추어는 퍼팅과 드라이버 연습에 시간을 가장 많이 쓴다.
+**Key Finding**: Broadie's research shows that **approach shots create the largest gap**. Yet most amateurs spend the majority of their practice time on putting and the driver.
 
-### 핸디캡 20 → 10으로 줄이기 위한 집중 영역
-1. **어프로치 정확도** (GIR 향상) — 가장 큰 임팩트
-2. **숏게임** — 그린 미스 시 업앤다운 확률
-3. **드라이버 일관성** — 페어웨이 안착률 (비거리보다 중요)
-4. **퍼팅** — 3퍼트 줄이기
+### Focus Areas to Drop from Handicap 20 → 10
+1. **Approach accuracy** (improve GIR) — greatest impact
+2. **Short game** — up-and-down probability on green misses
+3. **Driver consistency** — fairway hit rate (more important than distance)
+4. **Putting** — reduce three-putts
 
-## 데이터 수집 방법
+## Data Collection Methods
 
-### 간편 방법 (앱 없이)
-스코어카드 뒷면에 기록:
-- 매 홀: 페어웨이 적중(O/X), GIR(O/X), 퍼팅 수, 업앤다운(O/X)
-- 라운드 후 집계:
-  - 페어웨이 적중률 (목표: 50%+ for 핸디캡 15)
-  - GIR (목표: 5~7개 for 핸디캡 15)
-  - 평균 퍼팅 수 (목표: 32 이하)
-  - 업앤다운 성공률 (목표: 30%+)
+### Simple Method (No App)
+Record on the back of your scorecard:
+- Each hole: fairway hit (Y/N), GIR (Y/N), number of putts, up-and-down (Y/N)
+- Post-round totals:
+  - Fairway hit rate (target: 50%+ for handicap 15)
+  - GIR (target: 5–7 for handicap 15)
+  - Average putts (target: 32 or fewer)
+  - Up-and-down success rate (target: 30%+)
 
-### 앱 활용
-| 앱 | 기능 | 비용 |
+### App-Based Tracking
+| App | Features | Cost |
 |---|---|---|
-| **Arccos** (센서) | 자동 샷 추적, SG 분석 | 센서 20~30만원 + 연 구독 |
-| **Shot Scope** (시계) | 자동 추적, 히트맵 | 시계 30~40만원, 앱 무료 |
-| **Golfshot** | 수동 입력, GPS 거리 | 무료~유료 |
-| **TheGrint** | 핸디캡 관리 + 통계 | 무료~유료 |
-| **카카오골프** | 한국 코스 지원, 스코어 관리 | 무료 |
+| **Arccos** (sensors) | Automatic shot tracking, SG analysis | Sensors ~$150–250 + annual subscription |
+| **Shot Scope** (watch) | Automatic tracking, heat maps | Watch ~$250–350, app free |
+| **Golfshot** | Manual entry, GPS distances | Free–paid |
+| **TheGrint** | Handicap management + statistics | Free–paid |
+| **Kakao Golf** | Korean course support, score management | Free |
 
-### 최소 데이터 (5라운드)
-- 5라운드 이상 데이터가 있어야 패턴이 보임
-- 1라운드 = 노이즈. 5라운드 = 트렌드
+### Minimum Data (5 Rounds)
+- At least 5 rounds of data are needed before patterns emerge
+- 1 round = noise. 5 rounds = trend
 
-## 핸디캡별 벤치마크
+## Benchmarks by Handicap
 
-### 주요 통계 (Shot Scope 데이터 기반)
+### Key Statistics (Based on Shot Scope Data)
 
-| 지표 | 핸디캡 0 | 핸디캡 10 | 핸디캡 20 | 핸디캡 30 |
+| Metric | Handicap 0 | Handicap 10 | Handicap 20 | Handicap 30 |
 |---|---|---|---|---|
-| 드라이버 거리 | 255yd | 230yd | 210yd | 190yd |
-| 페어웨이 적중률 | 65% | 50% | 40% | 30% |
+| Driver distance | 255 yd | 230 yd | 210 yd | 190 yd |
+| Fairway hit rate | 65% | 50% | 40% | 30% |
 | GIR | 12/18 | 7/18 | 3/18 | 1/18 |
-| 업앤다운 % | 55% | 30% | 15% | 8% |
-| 평균 퍼팅 | 29 | 32 | 35 | 38 |
-| 3퍼트 비율 | 5% | 12% | 20% | 30% |
+| Up-and-down % | 55% | 30% | 15% | 8% |
+| Average putts | 29 | 32 | 35 | 38 |
+| Three-putt rate | 5% | 12% | 20% | 30% |
 
-## 연습 시간 배분 권장 (Strokes Gained 기반)
+## Recommended Practice Time Allocation (Strokes Gained–Based)
 
-### 핸디캡 20+
+### Handicap 20+
 ```
-드라이빙 레인지: 30% (컨택 일관성)
-숏게임/칩/피치: 35% (가장 빠른 개선)
-퍼팅: 20%
-코스 매니지먼트 (멘탈 복습): 15%
-```
-
-### 핸디캡 10~20
-```
-어프로치 (150yd 이내): 35%
-숏게임: 25%
-퍼팅: 20%
-드라이버: 15%
-코스 매니지먼트: 5%
+Driving range: 30% (contact consistency)
+Short game / chips / pitches: 35% (fastest improvement area)
+Putting: 20%
+Course management (mental review): 15%
 ```
 
-### 핸디캡 0~10
+### Handicap 10–20
 ```
-어프로치: 30%
-퍼팅: 25%
-숏게임: 20%
-드라이버: 15%
-코스 매니지먼트: 10%
+Approach (within 150 yd): 35%
+Short game: 25%
+Putting: 20%
+Driver: 15%
+Course management: 5%
 ```
 
-## 한국 아마추어 현실
+### Handicap 0–10
+```
+Approach: 30%
+Putting: 25%
+Short game: 20%
+Driver: 15%
+Course management: 10%
+```
 
-- **레인지 중심 연습**: 2~3층 레인지에서 드라이버 위주 → SG 관점에서 **가장 비효율적**
-- **스크린 골프 데이터**: 골프존 통계는 참고용 (실제 필드와 차이). 방향성만 보기
-- **숏게임 연습장 부족**: 서울 근교에 숏게임 전용 시설 적음 → 집에서 퍼팅 매트 + 레인지에서 웨지 연습
-- **라운드 빈도**: 월 1~2회면 데이터 축적 느림 → 스크린 보조 데이터 활용
+## Realities for Korean Amateurs
 
-## 안티패턴
+- **Range-centric practice**: Hitting mostly driver on multi-story ranges → **least efficient** from an SG perspective
+- **Screen golf data**: GolfZon statistics are reference-only (significant gap from actual field play). Use for directional insight only
+- **Lack of short-game facilities**: Few dedicated short-game practice areas near Seoul → practice with a putting mat at home + wedge work at the range
+- **Round frequency**: At 1–2 rounds per month, data accumulates slowly → supplement with screen golf data
 
-- **감으로 약점 판단** — "퍼팅이 문제야"라고 생각하지만 실제론 어프로치가 문제인 경우 많음
-- **비거리에 집착** — 드라이버 10야드 더 나가는 것보다 페어웨이 적중 10% 올리는 게 타수에 더 기여
-- **연습장에서 드라이버만 치기** — SG 데이터 없이 "기분 좋은" 연습
-- **퍼팅에만 시간 투자** — 3퍼트를 2퍼트로 줄이는 것보다 GIR을 늘리는 게 효과 큼
-- **1라운드 결과로 결론** — 최소 5라운드 이상의 데이터로 판단
+## Anti-Patterns
 
-## 한계
+- **Diagnosing weaknesses by feel** — Many think "putting is my problem" when approach shots are actually the issue
+- **Obsession with distance** — Gaining 10 yards off the tee contributes less to scoring than improving fairway hit rate by 10%
+- **Hitting only driver at the range** — "Feel-good" practice without SG data
+- **Investing all time in putting** — Increasing GIR is more effective than converting three-putts into two-putts
+- **Drawing conclusions from a single round** — Decisions should be based on at least 5 rounds of data
 
-1. SG는 "어디서"를 알려주지 "어떻게"는 안 알려줌 → 스윙 교정은 프로에게
-2. 코스 난이도 차이를 완벽히 보정하지 못함
-3. 아마추어 데이터 수집의 번거로움 (앱 없이는 수동 기록)
-4. 심리적 요인 (첫 홀 긴장, 내리막 퍼트 등)은 통계에 안 잡힘
+## Limitations
 
-## 함께 쓰면 좋은 프레임워크
+1. SG tells you "where" but not "how" → swing mechanics require a teaching professional
+2. Cannot perfectly adjust for course difficulty differences
+3. Manual data collection is burdensome for amateurs without an app
+4. Psychological factors (first-tee nerves, downhill putts, etc.) are not captured in the statistics
 
-- `practice-design` — SG 분석 기반 연습 계획
-- `scoring-strategy` — 핸디캡별 개선 로드맵
-- `short-game` — SG:ATG 개선 전략
-- `course-management` — SG:OTT와 APP 개선을 위한 전략적 샷 선택
+## Complementary Frameworks
 
-## 참고 문헌
+- `practice-design` — Build a practice plan based on SG analysis
+- `scoring-strategy` — Improvement roadmap by handicap level
+- `short-game` — Strategies to improve SG: ATG
+- `course-management` — Strategic shot selection to improve SG: OTT and APP
+
+## References
 
 - Broadie, M. *Every Shot Counts* (2014)
 - Broadie, M. (2012). "Assessing golfer performance on the PGA Tour." *Interfaces*
