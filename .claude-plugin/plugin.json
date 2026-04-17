@@ -1,0 +1,11 @@
+{
+  "name": "golf-framework",
+  "description": "Golf coaching meta-router — 8 evidence-based frameworks (Strokes Gained/Broadie, Course Management/DECADE, Mental Game/Rotella, Short Game/Pelz, Practice Design, Club Fitting, Physical Conditioning/TPI, Scoring Strategy). No swing mechanics. Invoke /golf.",
+  "version": "0.3.0",
+  "author": {"name": "Choi Hee Chul", "email": "ironyjk@gmail.com"},
+  "homepage": "https://github.com/ironyjk/golf-framework",
+  "repository": "https://github.com/ironyjk/golf-framework",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["golf", "strokes-gained", "course-management", "mental-game", "korean"],
+  "skills": ["./golf", "./strokes-gained", "./course-management", "./mental-game", "./short-game", "./practice-design", "./club-fitting", "./physical-conditioning", "./scoring-strategy"]
+}
