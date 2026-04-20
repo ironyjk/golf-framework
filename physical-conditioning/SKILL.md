@@ -1,28 +1,18 @@
 ---
 name: physical-conditioning
-version: "0.1.0"
+version: "0.2.0"
 description: "Golf Physical Conditioning — TPI (Titleist Performance Institute)-based mobility, rotational power & core exercises, pre-round warm-up, injury prevention, and age-specific adjustments."
 ---
 
 # Golf Physical Conditioning
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **A golf swing rotates the club at 100+ mph in 1.2 seconds.** Thoracic rotation, hip mobility, and core stability form the foundation of distance, consistency, and injury prevention. Fix the body before fixing the swing.
 
-## Evidence Strength
-
-- TPI physical screen correlation with swing faults: **Moderate** (TPI internal research; limited independent validation)
-- Golf-specific strength/mobility training effects: **Strong** (clubhead speed and driving distance improvements — Doan 2006, Fletcher 2004)
-- Pre-round warm-up effects: **Strong** (injury reduction + first-hole performance — Fradkin 2004)
-- Stretching alone for distance gains: **Weak** (mobility is necessary but not sufficient)
-
-## Theoretical Basis & Sources
-
-- **TPI (Titleist Performance Institute)** — Body-Swing Connection
-- **Greg Rose & Dave Phillips** — TPI co-founders
-- **Stuart McGill** — Spine stability research
-- **Gray Cook** — FMS (Functional Movement Screen)
 
 ## Physical Abilities Required for Golf (Priority Order)
 
@@ -34,6 +24,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
 | 4 | **Glute Activation** | Downswing power, stability | — |
 | 5 | **Shoulder Mobility** | Top of backswing, follow-through | 180° overhead |
 | 6 | **Rotational Power** | Clubhead speed | Medicine ball throw |
+
 
 ## Self-Assessment (5 Minutes)
 
@@ -58,6 +49,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
 - Hold a club overhead and perform a squat
 - **Pass**: Thighs reach parallel, club stays over feet
 - **Fail**: Identify the limiting area — ankle, hip, or thoracic spine
+
 
 ## Golf Fitness Routine (2–3x/Week, 30 Minutes)
 
@@ -116,6 +108,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
     - 90° rotation jump (both directions)
     - 6 reps × 3 sets
 
+
 ## Pre-Round Warm-Up (10 Minutes)
 
 **Research shows that skipping warm-up before the first tee shot = injury risk + degraded performance over the first 3 holes**
@@ -131,6 +124,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
    - Driver × 3 (80% → 90% → 100%)
 6. Putting green (2 min) — 3 long putts, 5 short putts (read the green speed)
 ```
+
 
 ## Golf Injury Prevention
 
@@ -149,6 +143,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
 - McGill's Big 3: Curl-up, Side Plank, Bird Dog
 - Even when using a cart, walk between shots (prevent stiffness)
 - When lifting a bag from the cart: bend the knees
+
 
 ## Age-Specific Adjustments
 
@@ -170,6 +165,7 @@ description: "Golf Physical Conditioning — TPI (Titleist Performance Institute
 - Walking rounds (no cart) are the best form of exercise
 - Warm-up: 20 minutes
 
+
 ## Increasing Distance (Physical Perspective)
 
 **Distance = Clubhead Speed × Smash Factor × Launch Conditions**
@@ -186,6 +182,7 @@ What physical conditioning can influence:
 - 5 max-effort swings with a heavy club (or donut weight attached)
 - Expected results: 3–5 mph gain in 4–8 weeks (evidence-based)
 
+
 ## Golf in Korea (한국 골프 현실)
 
 - **18-Hole Walking**: Carts are standard in Korea, but walking rounds are the best exercise (10,000+ steps)
@@ -193,6 +190,7 @@ What physical conditioning can influence:
 - **Winter Screen Golf (스크린 골프)**: Indoor, but sudden full swings → warm-up is essential
 - **Business Golf (접대 골프)**: 18 holes + dinner + alcohol → factor in next-day recovery
 - **Personal Training / Pilates**: Highly accessible in Korea; golf-specific PT is a growing trend
+
 
 ## Anti-Patterns
 
@@ -202,6 +200,7 @@ What physical conditioning can influence:
 - **Distance = brute force** — rotational speed and timing matter more than raw strength
 - **Playing through pain** — especially lower back and elbow; if pain persists 1+ week, see a doctor
 
+
 ## Limitations
 
 1. Correcting exercise form via text has inherent limitations — video or a trainer is recommended
@@ -209,17 +208,10 @@ What physical conditioning can influence:
 3. TPI self-assessment is for reference only — a professional evaluation (TPI-certified pro) is more accurate
 4. Exercise modifications may be needed based on injury history → consult a physical therapist
 
+
 ## Complementary Frameworks
 
 - `club-fitting` — Equipment selection matched to the body
 - `scoring-strategy` — Strategy adjustments when distance decreases
 - `strength-basics` (`/fit`) — General strength programming
 - `progressive-overload` (`/fit`) — Progressive loading principles
-
-## References
-
-- TPI (mytpi.com) — Body-Swing Connection research
-- Doan, B.K. et al. (2006). "The effects of physical conditioning on golf performance." *JSCR*
-- Fletcher, I.M. & Hartwell, M. (2004). "Effect of an 8-week combined weights and plyometrics training program on golf drive performance."
-- Fradkin, A.J. et al. (2004). "Effects of warming-up on physical performance." *JSS*
-- McGill, S. *Ultimate Back Fitness and Performance*

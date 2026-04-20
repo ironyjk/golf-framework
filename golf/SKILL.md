@@ -4,7 +4,7 @@ version: "0.3.0"
 last_verified: "2026-04-17"
 valid_until: "2026-10-17"
 description: "Golf coaching meta-router — 8 evidence-based frameworks (Strokes Gained/Broadie, Course Management/DECADE, Mental Game/Rotella, Short Game/Pelz, Practice Design, Club Fitting, Physical Conditioning/TPI, Scoring Strategy). No swing mechanics — think your way around the course. Korean amateur context. Not a substitute for lessons."
-tools: ["Read", "Write", "Edit", "Skill"]
+tools: ["Read", "Write", "Edit", "Skill", "Agent"]
 dependencies:
   - strokes-gained
   - course-management
@@ -109,6 +109,17 @@ Confirm or ask before analysis:
 - Unscientific advice packaged as "secrets" or "hacks"
 - Unrealistic promises such as "drop 10 strokes in one month"
 - Betting/gambling-related content
+
+
+## Execution Strategy
+
+1. **Route** -- classify the problem, select 1-3 sub-skills
+2. **Confirm** -- verify goal/level/context with the user before analysis
+3. **Execute** -- call sub-skills via the Skill tool (read their SKILL.md for execution protocol)
+4. **Synthesize** -- combine results, expose conflicts, give concrete next steps
+5. **Measure** -- propose 1-2 metrics to track over 4-12 weeks
+
+When a sub-skill needs background theory, read its `references/foundation.md`. Execute using its `SKILL.md`.
 
 ## Output Format
 

@@ -1,54 +1,18 @@
 ---
 name: strokes-gained
-version: "0.1.0"
+version: "0.2.0"
 description: "Strokes Gained Analysis — Mark Broadie's data-driven golf analytics. Diagnose weaknesses via SG Driving/Approach/Around-the-Green/Putting. Handicap-level benchmarks."
 ---
 
 # Strokes Gained Analysis (Mark Broadie)
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Quantify every shot's value as "strokes saved versus the average."** Diagnose "where you lose strokes" with data instead of intuition, and provide an evidence base for allocating practice time.
 
-## Strength of Evidence
-
-- Strokes Gained concept: **Strong** (official PGA Tour statistic, peer-reviewed research)
-- Amateur application: **Strong** (large datasets from Shot Scope, Arccos, etc.)
-- Handicap-level benchmarks: **Moderate** (large-scale data available, but course and conditions vary)
-
-## Theory & Source References
-
-- **Mark Broadie** — *Every Shot Counts* (2014), Professor at Columbia Business School
-- **PGA Tour** — collecting data via the ShotLink system since 2004
-- **Shot Scope** — 100M+ shots of amateur round data
-
-## Strokes Gained Concept
-
-### Fundamental Principle
-Using the **expected strokes** from a given position as the baseline, a result better than expected is (+) and worse is (-).
-
-**Example**: Expected strokes from 150 yards in the fairway = 2.95
-- Hit the green (one-putt distance) → expected 1.0 strokes → SG = 2.95 - (1 + 1.0) = **+0.95** (good)
-- Greenside bunker → expected 2.4 strokes → SG = 2.95 - (1 + 2.4) = **-0.45** (bad)
-
-### Four Categories
-
-| Category | Scope | Shots Included |
-|---|---|---|
-| **SG: Off-the-Tee** | Tee shots | Driver, fairway wood/hybrid (Par 4 & 5) |
-| **SG: Approach** | Green attacks from 100+ yards | Irons, hybrids (second/third shots) |
-| **SG: Around-the-Green** | Within 50 yards of the green edge | Chips, pitches, bunker shots (excluding putts) |
-| **SG: Putting** | On the green | All putts |
-
-### PGA Tour Averages (Reference)
-| Category | Tour Average | Top 10% |
-|---|---|---|
-| SG: OTT | 0.00 | +0.70 |
-| SG: APP | 0.00 | +0.80 |
-| SG: ATG | 0.00 | +0.40 |
-| SG: PUTT | 0.00 | +0.80 |
-
-> The tour average is 0 because it is the baseline by definition.
 
 ## Amateur Stroke-Loss Distribution by Handicap
 
@@ -68,6 +32,7 @@ Using the **expected strokes** from a given position as the baseline, a result b
 2. **Short game** — up-and-down probability on green misses
 3. **Driver consistency** — fairway hit rate (more important than distance)
 4. **Putting** — reduce three-putts
+
 
 ## Data Collection Methods
 
@@ -93,6 +58,7 @@ Record on the back of your scorecard:
 - At least 5 rounds of data are needed before patterns emerge
 - 1 round = noise. 5 rounds = trend
 
+
 ## Benchmarks by Handicap
 
 ### Key Statistics (Based on Shot Scope Data)
@@ -105,6 +71,7 @@ Record on the back of your scorecard:
 | Up-and-down % | 55% | 30% | 15% | 8% |
 | Average putts | 29 | 32 | 35 | 38 |
 | Three-putt rate | 5% | 12% | 20% | 30% |
+
 
 ## Recommended Practice Time Allocation (Strokes Gained–Based)
 
@@ -134,12 +101,14 @@ Driver: 15%
 Course management: 10%
 ```
 
+
 ## Realities for Korean Amateurs
 
 - **Range-centric practice**: Hitting mostly driver on multi-story ranges → **least efficient** from an SG perspective
 - **Screen golf data**: GolfZon statistics are reference-only (significant gap from actual field play). Use for directional insight only
 - **Lack of short-game facilities**: Few dedicated short-game practice areas near Seoul → practice with a putting mat at home + wedge work at the range
 - **Round frequency**: At 1–2 rounds per month, data accumulates slowly → supplement with screen golf data
+
 
 ## Anti-Patterns
 
@@ -149,6 +118,7 @@ Course management: 10%
 - **Investing all time in putting** — Increasing GIR is more effective than converting three-putts into two-putts
 - **Drawing conclusions from a single round** — Decisions should be based on at least 5 rounds of data
 
+
 ## Limitations
 
 1. SG tells you "where" but not "how" → swing mechanics require a teaching professional
@@ -156,16 +126,10 @@ Course management: 10%
 3. Manual data collection is burdensome for amateurs without an app
 4. Psychological factors (first-tee nerves, downhill putts, etc.) are not captured in the statistics
 
+
 ## Complementary Frameworks
 
 - `practice-design` — Build a practice plan based on SG analysis
 - `scoring-strategy` — Improvement roadmap by handicap level
 - `short-game` — Strategies to improve SG: ATG
 - `course-management` — Strategic shot selection to improve SG: OTT and APP
-
-## References
-
-- Broadie, M. *Every Shot Counts* (2014)
-- Broadie, M. (2012). "Assessing golfer performance on the PGA Tour." *Interfaces*
-- Shot Scope Performance Data — shotscope.com/performance
-- Arccos Golf Analytics — arccosgolf.com

@@ -1,58 +1,18 @@
 ---
 name: practice-design
-version: "0.1.0"
+version: "0.2.0"
 description: "Golf Practice Design — Deliberate Practice applied. Block/random/interleaved practice, time-based plans, practice-to-play transfer, practice journal."
 ---
 
 # Golf Practice Design (Practice Design)
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Same practice time, but *how* you practice creates up to a 5x difference in effectiveness.** Random/interleaved practice (different shot each time) produces higher field transfer rates than block practice (repeating the same shot).
 
-## Strength of Evidence
-
-- Interleaving > Block practice (transfer effect): **Strong** (multiple motor learning studies — Shea & Morgan 1979, Guadagnoli & Lee 2004)
-- Deliberate Practice framework: **Strong** (Ericsson 1993, across sports)
-- Visualization/mental rehearsal: **Moderate** (supplementary effect; limited when used alone)
-- Practice journaling: **Moderate** (improves self-awareness; limited direct experimental data)
-
-## Theoretical Foundations & Sources
-
-- **Anders Ericsson** — Deliberate Practice
-- **Richard Schmidt** — Motor Learning and Performance
-- **Christine Carter** — "The Bulletproof Musician" (practice science applied)
-- **Mark Guadagnoli & Timothy Lee** — Challenge Point Framework
-
-## Three Types of Practice
-
-### 1. Block Practice
-- Same club, same target, same shot repeated
-- Example: 30 balls to a 150-yard target with a 7-iron
-- **Strengths**: Useful in early skill acquisition. Builds confidence
-- **Weaknesses**: Low field transfer rate. "I hit great at the range, but..."
-- **When to use**: Learning a new technique; post-lesson repetition for consolidation
-
-### 2. Random Practice
-- Different club, different target, different situation every shot
-- Example: Driver → 7-iron → wedge → 3-wood, each to a different target
-- **Strengths**: Replicates on-course decision-making. High transfer rate
-- **Weaknesses**: Low immediate satisfaction (feels like you're hitting poorly)
-- **When to use**: After fundamentals are established. Pre-round warm-up
-
-### 3. Interleaved Practice
-- Rotate clubs/targets every 3–5 shots
-- Example: PW × 3 → 7-iron × 3 → driver × 3 → repeat
-- **Strengths**: Midpoint between block and random. Most effective for beginners to intermediate players
-- **Weaknesses**: Less realistic than random practice
-
-### Practice Type Distribution (by Handicap)
-| Handicap | Block | Interleaved | Random |
-|---|---|---|---|
-| 30+ | 60% | 30% | 10% |
-| 20–30 | 40% | 40% | 20% |
-| 10–20 | 20% | 40% | 40% |
-| 0–10 | 10% | 30% | 60% |
 
 ## Time-Based Practice Plans
 
@@ -85,6 +45,7 @@ Putting (20 min): 3-foot drill + lag putting + virtual holes
 Cool-down/review (10 min): Log today's practice, set next session goals
 ```
 
+
 ## Virtual Hole Play (Core Practice Method)
 
 **Imagine playing an actual course** while at the range:
@@ -97,6 +58,7 @@ Cool-down/review (10 min): Log today's practice, set next session goals
 6. Move to the next hole...
 
 **Effect**: Decision-making each shot + club changes + pre-shot routine = same cognitive load as on-course play
+
 
 ## Practice Journal Template
 
@@ -123,6 +85,7 @@ Next Session Focus:
 2. ___
 ```
 
+
 ## Practice-to-Play Transfer
 
 ### Methods to Increase Transfer Rate
@@ -141,6 +104,7 @@ Next Session Focus:
 | No time pressure | Pace of play |
 | Difficult to assess results (mat) | Immediate feedback |
 
+
 ## Launch Monitor Guide (Korean Market)
 
 | Device | Price (KRW) | Strengths | Weaknesses |
@@ -155,6 +119,7 @@ With a launch monitor:
 - Build clock system distance matrix
 - Analyze spin, launch angle, and dispersion
 
+
 ## Golf Practice Realities in Korea
 
 - **Multi-story driving ranges (2F–3F)**: Difficult to observe actual ball flight. Launch monitor recommended as a supplement
@@ -163,6 +128,7 @@ With a launch monitor:
 - **Home putting mats**: Practicing 3-foot putts alone can save 2–3 strokes per round
 - **Short game practice facilities**: Increasingly common near Seoul metro area. Integrated chip/bunker/putting facilities
 - **Time constraints**: Structured 30 minutes once a week > unstructured 2 hours once a week
+
 
 ## Anti-Patterns
 
@@ -173,11 +139,13 @@ With a launch monitor:
 - **Playing rounds without practice** — 2 rounds/month = 144 shots/month. Insufficient data and repetition
 - **Full round immediately after a lesson** — New techniques need range consolidation before on-course application
 
+
 ## Limitations
 
 1. Practice environment constraints — Korean driving ranges make it difficult to practice from varied lies
 2. Motivation — Structured practice can feel "boring." Add gamification elements
 3. Feedback quality — Without professional coaching, incorrect patterns may be reinforced through repetition
+
 
 ## Complementary Frameworks
 
@@ -185,10 +153,3 @@ With a launch monitor:
 - `short-game` — Detailed short game drill design
 - `mental-game` — Establishing pre-shot routine during practice
 - `deliberate-practice` (`/learn`) — General theory of practice science
-
-## References
-
-- Ericsson, K.A. et al. (1993). "The role of deliberate practice." *Psychological Review*
-- Shea, J.B. & Morgan, R.L. (1979). "Contextual interference effects on acquisition, retention, and transfer." *JEP: HLM&P*
-- Guadagnoli, M.A. & Lee, T.D. (2004). "Challenge point: a framework for conceptualizing practice." *J Mot Behav*
-- Schmidt, R.A. & Lee, T.D. *Motor Learning and Performance* (6th ed.)

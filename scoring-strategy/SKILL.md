@@ -1,20 +1,18 @@
 ---
 name: scoring-strategy
-version: "0.1.0"
+version: "0.2.0"
 description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stage-specific focus areas for 100+ → 90s → 80s → 70s, realistic improvement timelines, and practice-to-play ratios."
 ---
 
 # Scoring Strategy — Handicap Reduction Roadmap
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Every handicap level has a different bottleneck.** At 100+, it's contact consistency; in the 90s, penalty elimination; in the 80s, approach accuracy; in the 70s, course management optimization. Identify the bottleneck for your handicap and focus there for the fastest improvement.
 
-## Evidence Strength
-
-- Handicap-specific weakness patterns: **Strong** (Shot Scope, Arccos large-scale data)
-- Improvement timeline estimates: **Moderate** (high individual variance)
-- Practice time allocation recommendations: **Moderate** (Strokes Gained-based inference)
 
 ## Handicap Roadmap
 
@@ -130,6 +128,7 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 
 ---
 
+
 ## Lessons vs. Self-Practice Guide
 
 | Handicap | Lessons | Self-Practice |
@@ -140,6 +139,7 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 | 70–80 | Regular coaching (specialized) | Data-driven self-practice |
 | Below 70 | Expert coach (swing + mental) | Continuous self-analysis |
 
+
 ## Practice vs. Play Ratio
 
 | Handicap | Practice : Play | Rationale |
@@ -148,6 +148,7 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 | 90–100 | **2:1** | Practice + field experience |
 | 80–90 | **1:1** | On-course decision-making experience |
 | 70–80 | **1:2** | Real-round experience matters more |
+
 
 ## Managing Realistic Expectations
 
@@ -174,6 +175,7 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
   3. Change practice routines (block → random)
   4. Play different courses/conditions
 
+
 ## Korean Amateur Context
 
 - **1–2 rounds/month is the reality**: Limited rounds can be supplemented with simulator play (course strategy practice)
@@ -181,6 +183,7 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 - **Business golf** (접대 골프): Manners > score. A 90-shooter with good etiquette is more valued than a 110-shooter
 - **Club competition**: Handicap tracking drives motivation. Use TheGrint or Kakao Golf
 - **4–5 month winters**: Simulator + fitness training + short game → Maintain/improve skills by spring
+
 
 ## Anti-Patterns
 
@@ -190,11 +193,13 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 - **Comparing with playing partners** — Compare only against your own past scores
 - **Perfectionism** — "If I don't play well today, it's meaningless" → Ignores the value of data accumulation
 
+
 ## Limitations
 
 1. Improvement speed varies dramatically based on talent, age, practice volume, and lesson quality
 2. Strategy and mental game alone have limits without swing correction (especially below 80s)
 3. Low round frequency slows improvement (experience deficit)
+
 
 ## Complementary Frameworks
 
@@ -203,10 +208,3 @@ description: "Scoring Strategy — Handicap-based stroke reduction roadmap. Stag
 - `course-management` — Strategic stroke reduction
 - `short-game` — The fastest area for improvement
 - `mental-game` — Critical below 80s
-
-## References
-
-- Broadie, M. *Every Shot Counts* — SG analysis by handicap
-- Shot Scope Performance Insights — shotscope.com
-- Pelz, D. *Dave Pelz's Scoring Game* (2001)
-- Rotella, B. *Golf is Not a Game of Perfect*

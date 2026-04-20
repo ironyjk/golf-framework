@@ -1,21 +1,18 @@
 ---
 name: club-fitting
-version: "0.1.0"
+version: "0.2.0"
 description: "Club fitting & equipment strategy — driver, iron, wedge, putter selection, 14-club bag optimization, handicap-based equipment recommendations, Korean market context."
 ---
 
 # Club Fitting & Equipment Strategy
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Fitting doesn't change your swing — it finds the equipment that matches your current swing.** Fitting delivers measurable benefits even at handicap 30, and optimizing your 14-club configuration directly contributes to lower scores.
 
-## Evidence Strength
-
-- Performance gains from fitting: **Moderate** (high variance, typically 2–5 strokes)
-- Loft gap consistency: **Strong** (distance gaps translate directly to scoring gaps)
-- Shaft flex matching: **Moderate** (real impact exists, but beware of marketing hype)
-- Putter length/lie angle: **Strong** (directly affects eye line and stroke mechanics)
 
 ## When Fitting Is Needed
 
@@ -27,6 +24,7 @@ description: "Club fitting & equipment strategy — driver, iron, wedge, putter 
 | Same clubs for 3+ years | **Medium** |
 | Planning a new club purchase | **Essential** — fit before buying |
 | Beginner at handicap 30+ | **Medium** — basic spec check still necessary |
+
 
 ## Driver
 
@@ -56,6 +54,7 @@ description: "Club fitting & equipment strategy — driver, iron, wedge, putter 
 | 100–110 mph | S or X (Extra Stiff) |
 | 110 mph+ | X or TX |
 
+
 ## Irons
 
 ### Cavity Back vs. Muscle Back vs. Hybrid
@@ -77,6 +76,7 @@ description: "Club fitting & equipment strategy — driver, iron, wedge, putter 
 - Modern irons have stronger lofts (today's 7-iron = yesterday's 5-iron loft)
 - Irregular gaps → uncovered distances on the course
 
+
 ## Wedges
 
 ### Wedge Configuration (4–6° Loft Gaps)
@@ -97,6 +97,7 @@ description: "Club fitting & equipment strategy — driver, iron, wedge, putter 
 - **Mid Grind**: Versatile. Upper-intermediate
 - **High-Toe Grind**: Open-face lob shots. Advanced players
 
+
 ## Putter
 
 ### Head Types
@@ -115,6 +116,7 @@ description: "Club fitting & equipment strategy — driver, iron, wedge, putter 
 - The sole should sit flat on the ground at address
 - Toe up → misses left
 - Heel up → misses right
+
 
 ## 14-Club Bag Optimization
 
@@ -156,6 +158,7 @@ Putter
 = 14 clubs
 ```
 
+
 ## Korean Market Context
 
 ### Fitting Centers
@@ -184,6 +187,7 @@ Putter
 - **Putters**: Scotty Cameron, Odyssey, Ping
 - **Korean-market favorites**: PXG (strong Korean demand), Honma (Japan), Maruman
 
+
 ## Anti-Patterns
 
 - **Buying expensive clubs without fitting** — wrong specs turn an expensive club into an expensive miss
@@ -193,6 +197,7 @@ Putter
 - **Frequently swapping putters** — trust is the core of putting; constant changes prevent adaptation
 - **Buying the latest model every year** — driver technology innovation cycles every 2–3 years; annual upgrades are unnecessary
 
+
 ## Limitations
 
 1. Fitting is based on **your current swing** — if your swing changes, re-fit
@@ -200,15 +205,9 @@ Putter
 3. Equipment cannot fully compensate for swing flaws
 4. Many areas where price and performance are not proportional
 
+
 ## Complementary Frameworks
 
 - `strokes-gained` — use data to identify which club is the problem
 - `short-game` — connect wedge configuration with distance matrix
 - `scoring-strategy` — optimal club configuration by handicap
-
-## References
-
-- Wishon, T. *The Search for the Perfect Golf Club* (2006)
-- Maltby, R. *Golf Club Design, Fitting, Alteration & Repair* (6th ed.)
-- TXG (True Experience in Golf) — YouTube fitting data
-- MyGolfSpy — Independent club testing reviews
