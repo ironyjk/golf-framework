@@ -48,6 +48,17 @@ See the [marketplace wrapper guide](https://github.com/ironyjk/claude-frameworks
 /golf  Should I hit driver or iron on a 380-yard dogleg left?
 ```
 
+## Attribution & Trademarks
+
+This project implements well-known golf coaching frameworks for educational purposes. The following trademarks are acknowledged:
+
+- **TPI®** (Titleist Performance Institute) is a registered trademark of Acushnet Holdings / Titleist (mytpi.com).
+- **DECADE®** System is a registered trademark of Scott Fawcett (decadegolf.com).
+
+All other framework names reference published works and are used descriptively.
+
+This project is not affiliated with, endorsed by, or sponsored by any of the above trademark holders.
+
 ## License
 
 [CC-BY-NC 4.0](LICENSE) — Free for personal/educational use. Commercial use requires permission: ironyjk@gmail.com
