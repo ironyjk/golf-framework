@@ -5,7 +5,7 @@
   "author": {"name": "Choi Hee Chul", "email": "ironyjk@gmail.com"},
   "homepage": "https://github.com/ironyjk/golf-framework",
   "repository": "https://github.com/ironyjk/golf-framework",
-  "license": "CC-BY-NC-4.0",
+  "license": "MIT",
   "keywords": ["golf", "strokes-gained", "course-management", "mental-game", "korean"],
   "skills": ["./golf", "./strokes-gained", "./course-management", "./mental-game", "./short-game", "./practice-design", "./club-fitting", "./physical-conditioning", "./scoring-strategy"]
 }
